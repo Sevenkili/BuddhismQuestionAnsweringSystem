@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Questions>
+    <Question>
+        <id>1</id>
+        <questionStem>释迦牟尼觉悟成道的地方是()</questionStem>
+        <questionRewrite> </questionRewrite>
+        <questionType>地名|直答</questionType>
+        <options>
+            <option>鹿野苑</option>
+            <option>蓝毗尼园</option>
+            <option>菩提伽耶</option>
+			<option>王舍城</option>
+        </options>
+        <answer>3</answer>
+    </Question>
+	<Question>
+        <id>2</id>
+        <questionStem>哪位高僧不属于禅宗祖师()</questionStem>
+        <questionRewrite> </questionRewrite>
+        <questionType></questionType>
+        <options>
+            <option>六祖慧能</option>
+            <option>大慧宗杲</option>
+            <option>嘉祥吉藏</option>
+			<option>马祖道一</option>
+        </options>
+        <answer>3</answer>
+    </Question>
+	<Question>
+        <id>3</id>
+        <questionStem>哪部著作属于印度佛典()</questionStem>
+        <questionRewrite> </questionRewrite>
+        <questionType></questionType>
+        <options>
+            <option>中论</option>
+            <option>坛经</option>
+            <option>摩诃止观</option>
+			<option>万善同归集</option>
+        </options>
+        <answer>1</answer>
+    </Question>		
+		<Question>
+        <id></id>
+        <questionStem>哪位高僧提出“人间佛教”的理念()</questionStem>
+        <questionRewrite> </questionRewrite>
+        <questionType></questionType>
+        <options>
+            <option>谛闲</option>
+            <option>印光</option>
+            <option>圆瑛</option>
+			<option>太虚</option>
+        </options>
+        <answer>4</answer>
+    </Question>	
+		<Question>
+        <id></id>
+        <questionStem>哪座佛寺不是中国佛寺()</questionStem>
+        <questionRewrite> </questionRewrite>
+        <questionType></questionType>
+        <options>
+            <option>国清寺</option>
+            <option>那烂陀寺</option>
+            <option>拉卜楞寺</option>
+			<option>南华寺</option>
+        </options>
+        <answer>2</answer>
+    </Question>	
+		<Question>
+        <id></id>
+        <questionStem>哪个国家属于汉传佛教地区()</questionStem>
+        <questionRewrite> </questionRewrite>
+        <questionType></questionType>
+        <options>
+            <option>日本</option>
+            <option>泰国</option>
+            <option>缅甸</option>
+			<option>斯里兰卡</option>
+        </options>
+        <answer>1</answer>
+    </Question>	
+		<Question>
+        <id></id>
+        <questionStem>哪位佛弟子被称为“智慧第一”()</questionStem>
+        <questionRewrite> </questionRewrite>
+        <questionType></questionType>
+        <options>
+            <option>阿难</option>
+            <option>目连</option>
+            <option>舍利弗</option>
+			<option>须菩提</option>
+        </options>
+        <answer>3</answer>
+    </Question>	
+		<Question>
+        <id></id>
+        <questionStem>哪部佛经不属于“净土三经”()</questionStem>
+        <questionRewrite> </questionRewrite>
+        <questionType></questionType>
+        <options>
+            <option>阿弥陀经</option>
+            <option>无量寿经</option>
+            <option>观无量寿经</option>
+			<option>观音经</option>
+        </options>
+        <answer>4</answer>
+    </Question>	
+		<Question>
+        <id></id>
+        <questionStem>“永明求法”的故事发生在()</questionStem>
+        <questionRewrite> </questionRewrite>
+        <questionType></questionType>
+        <options>
+            <option>汉哀帝</option>
+            <option>秦始皇</option>
+            <option>汉明帝</option>
+			<option>汉桓帝</option>
+        </options>
+        <answer>3</answer>
+    </Question>	
+		<Question>
+        <id></id>
+        <questionStem>纪念佛祖诞生是在()</questionStem>
+        <questionRewrite> </questionRewrite>
+        <questionType></questionType>
+        <options>
+            <option>农历二月十五</option>
+            <option>农历四月初八</option>
+            <option>农历七月十五</option>
+			<option>腊月初八</option>
+        </options>
+        <answer>2</answer>
+    </Question>	
+</Questions>

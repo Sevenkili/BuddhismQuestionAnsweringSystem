@@ -1,0 +1,5 @@
+2017-05-10 22:40:44  [ main:30 ] - [ ERROR ]  Init ambiguity library error :org.ansj.exception.LibraryException:  path :library/ambiguity.dic file:G:\QALD\BuddhismQuestionAnsweringSystem-master\library\ambiguity.dic not found or can not to read, path: library/ambiguity.dic
+ 2017-05-10 22:40:44  [ main:33 ] - [ ERROR ]  Init ambiguity library error :org.ansj.exception.LibraryException:  path :library/default.dic file:G:\QALD\BuddhismQuestionAnsweringSystem-master\library\default.dic not found or can not to read, path: library/default.dic
+ 2017-05-10 22:50:30  [ main:7 ] - [ ERROR ]  Init ambiguity library error :org.ansj.exception.LibraryException:  path :library/ambiguity.dic file:G:\QALD\BuddhismQuestionAnsweringSystem-master\library\ambiguity.dic not found or can not to read, path: library/ambiguity.dic
+ 2017-05-10 22:50:30  [ main:9 ] - [ ERROR ]  Init ambiguity library error :org.ansj.exception.LibraryException:  path :library/default.dic file:G:\QALD\BuddhismQuestionAnsweringSystem-master\library\default.dic not found or can not to read, path: library/default.dic
+ 

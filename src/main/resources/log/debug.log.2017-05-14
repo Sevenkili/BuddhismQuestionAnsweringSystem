@@ -1,0 +1,40 @@
+2017-05-14 22:28:35  [ main:0 ] - [ DEBUG ]  寮�濮嬭繘琛屽熀浜庤瘝棰戠殑璇佹嵁璇勫垎
+2017-05-14 22:28:35  [ main:442 ] - [ DEBUG ]  idf璇存槑锛� Infinity = idf, computed as log((docCount+1)/(docFreq+1)) + 1 from:
+  0.0 = docFreq
+  4.0 = docCount
+
+2017-05-14 22:33:42  [ main:0 ] - [ DEBUG ]  开始进行基于tf-idf的文本证据评分
+2017-05-14 22:33:42  [ main:234 ] - [ DEBUG ]  idf说明： Infinity = idf, computed as log((docCount+1)/(docFreq+1)) + 1 from:
+  0.0 = docFreq
+  4.0 = docCount
+
+2017-05-14 22:36:38  [ main:0 ] - [ DEBUG ]  开始进行基于tf-idf的文本证据评分
+2017-05-14 22:36:38  [ main:237 ] - [ DEBUG ]  idf说明： Infinity = idf, computed as log((docCount+1)/(docFreq+1)) + 1 from:
+  0.0 = docFreq
+  4.0 = docCount
+
+2017-05-14 22:36:38  [ main:238 ] - [ DEBUG ]  indexReader.numDocs:4
+2017-05-14 22:38:38  [ main:0 ] - [ DEBUG ]  开始进行基于tf-idf的文本证据评分
+2017-05-14 22:38:38  [ main:236 ] - [ DEBUG ]  idf说明： Infinity = idf, computed as log((docCount+1)/(docFreq+1)) + 1 from:
+  0.0 = docFreq
+  4.0 = docCount
+
+2017-05-14 22:38:38  [ main:236 ] - [ DEBUG ]  indexReader.numDocs: 4
+2017-05-14 22:39:59  [ main:0 ] - [ DEBUG ]  开始进行基于tf-idf的文本证据评分
+2017-05-14 22:39:59  [ main:252 ] - [ DEBUG ]  idf说明： Infinity = idf, computed as log((docCount+1)/(docFreq+1)) + 1 from:
+  0.0 = docFreq
+  4.0 = docCount
+
+2017-05-14 22:39:59  [ main:253 ] - [ DEBUG ]  indexReader.numDocs: 4
+2017-05-14 22:43:52  [ main:0 ] - [ DEBUG ]  开始进行基于tf-idf的文本证据评分
+2017-05-14 22:43:52  [ main:232 ] - [ DEBUG ]  indexReader.numDocs: 4
+2017-05-14 22:45:23  [ main:0 ] - [ DEBUG ]  开始进行基于tf-idf的文本证据评分
+2017-05-14 22:45:23  [ main:244 ] - [ DEBUG ]  indexReader.numDocs: 4
+2017-05-14 22:48:20  [ main:0 ] - [ DEBUG ]  开始进行基于tf-idf的文本证据评分
+2017-05-14 22:48:20  [ main:231 ] - [ DEBUG ]  indexReader.numDocs: 4
+2017-05-14 22:52:11  [ main:0 ] - [ DEBUG ]  开始进行基于tf-idf的文本证据评分
+2017-05-14 22:52:11  [ main:213 ] - [ DEBUG ]  indexReader.numDocs: 4
+2017-05-14 22:54:18  [ main:0 ] - [ DEBUG ]  开始进行基于tf-idf的文本证据评分
+2017-05-14 22:54:18  [ main:209 ] - [ DEBUG ]  indexReader.numDocs: 4
+2017-05-14 22:55:14  [ main:0 ] - [ DEBUG ]  开始进行基于tf-idf的文本证据评分
+2017-05-14 23:26:20  [ main:0 ] - [ INFO ]  load data from question.xml

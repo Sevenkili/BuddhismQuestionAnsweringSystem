@@ -1,0 +1,260 @@
+2017-05-11 10:45:32  [ main:0 ] - [ WARN ]  not find library.properties in classpath use it by default !
+2017-05-11 10:45:32  [ main:5 ] - [ INFO ]  path to stream library/ambiguity.dic
+2017-05-11 10:45:32  [ main:6 ] - [ ERROR ]  Init ambiguity library error :org.ansj.exception.LibraryException:  path :library/ambiguity.dic file:G:\QALD\BuddhismQuestionAnsweringSystem-master\library\ambiguity.dic not found or can not to read, path: library/ambiguity.dic
+2017-05-11 10:45:32  [ main:7 ] - [ DEBUG ]  begin init dic !
+2017-05-11 10:45:32  [ main:7 ] - [ INFO ]  path to stream library/default.dic
+2017-05-11 10:45:32  [ main:8 ] - [ ERROR ]  Init ambiguity library error :org.ansj.exception.LibraryException:  path :library/default.dic file:G:\QALD\BuddhismQuestionAnsweringSystem-master\library\default.dic not found or can not to read, path: library/default.dic
+2017-05-11 10:45:32  [ main:357 ] - [ INFO ]  init core library ok use time : 340
+2017-05-11 10:45:32  [ main:673 ] - [ INFO ]  init ngram ok use time :306
+2017-05-11 10:53:02  [ main:0 ] - [ WARN ]  not find library.properties in classpath use it by default !
+2017-05-11 10:53:02  [ main:4 ] - [ INFO ]  path to stream library/ambiguity.dic
+2017-05-11 10:53:02  [ main:4 ] - [ ERROR ]  Init ambiguity library error :org.ansj.exception.LibraryException:  path :library/ambiguity.dic file:G:\QALD\BuddhismQuestionAnsweringSystem-master\library\ambiguity.dic not found or can not to read, path: library/ambiguity.dic
+2017-05-11 10:53:02  [ main:6 ] - [ DEBUG ]  begin init dic !
+2017-05-11 10:53:02  [ main:6 ] - [ INFO ]  path to stream library/default.dic
+2017-05-11 10:53:02  [ main:7 ] - [ ERROR ]  Init ambiguity library error :org.ansj.exception.LibraryException:  path :library/default.dic file:G:\QALD\BuddhismQuestionAnsweringSystem-master\library\default.dic not found or can not to read, path: library/default.dic
+2017-05-11 10:53:02  [ main:410 ] - [ INFO ]  init core library ok use time : 394
+2017-05-11 10:53:02  [ main:745 ] - [ INFO ]  init ngram ok use time :326
+2017-05-11 10:54:03  [ main:0 ] - [ WARN ]  not find library.properties in classpath use it by default !
+2017-05-11 10:54:03  [ main:5 ] - [ INFO ]  path to stream library/ambiguity.dic
+2017-05-11 10:54:03  [ main:5 ] - [ ERROR ]  Init ambiguity library error :org.ansj.exception.LibraryException:  path :library/ambiguity.dic file:G:\QALD\BuddhismQuestionAnsweringSystem-master\library\ambiguity.dic not found or can not to read, path: library/ambiguity.dic
+2017-05-11 10:54:03  [ main:6 ] - [ DEBUG ]  begin init dic !
+2017-05-11 10:54:03  [ main:6 ] - [ INFO ]  path to stream library/default.dic
+2017-05-11 10:54:03  [ main:6 ] - [ ERROR ]  Init ambiguity library error :org.ansj.exception.LibraryException:  path :library/default.dic file:G:\QALD\BuddhismQuestionAnsweringSystem-master\library\default.dic not found or can not to read, path: library/default.dic
+2017-05-11 10:54:03  [ main:391 ] - [ INFO ]  init core library ok use time : 375
+2017-05-11 10:54:03  [ main:714 ] - [ INFO ]  init ngram ok use time :314
+2017-05-11 10:56:10  [ main:0 ] - [ WARN ]  not find library.properties in classpath use it by default !
+2017-05-11 10:56:10  [ main:5 ] - [ INFO ]  path to stream library/ambiguity.dic
+2017-05-11 10:56:10  [ main:5 ] - [ ERROR ]  Init ambiguity library error :org.ansj.exception.LibraryException:  path :library/ambiguity.dic file:G:\QALD\BuddhismQuestionAnsweringSystem-master\library\ambiguity.dic not found or can not to read, path: library/ambiguity.dic
+2017-05-11 10:56:10  [ main:6 ] - [ DEBUG ]  begin init dic !
+2017-05-11 10:56:10  [ main:6 ] - [ INFO ]  path to stream library/default.dic
+2017-05-11 10:56:10  [ main:6 ] - [ ERROR ]  Init ambiguity library error :org.ansj.exception.LibraryException:  path :library/default.dic file:G:\QALD\BuddhismQuestionAnsweringSystem-master\library\default.dic not found or can not to read, path: library/default.dic
+2017-05-11 10:56:11  [ main:361 ] - [ INFO ]  init core library ok use time : 345
+2017-05-11 10:56:11  [ main:681 ] - [ INFO ]  init ngram ok use time :311
+2017-05-11 10:56:27  [ main:0 ] - [ WARN ]  not find library.properties in classpath use it by default !
+2017-05-11 10:56:27  [ main:4 ] - [ INFO ]  path to stream library/ambiguity.dic
+2017-05-11 10:56:27  [ main:4 ] - [ ERROR ]  Init ambiguity library error :org.ansj.exception.LibraryException:  path :library/ambiguity.dic file:G:\QALD\BuddhismQuestionAnsweringSystem-master\library\ambiguity.dic not found or can not to read, path: library/ambiguity.dic
+2017-05-11 10:56:27  [ main:5 ] - [ DEBUG ]  begin init dic !
+2017-05-11 10:56:27  [ main:5 ] - [ INFO ]  path to stream library/default.dic
+2017-05-11 10:56:27  [ main:6 ] - [ ERROR ]  Init ambiguity library error :org.ansj.exception.LibraryException:  path :library/default.dic file:G:\QALD\BuddhismQuestionAnsweringSystem-master\library\default.dic not found or can not to read, path: library/default.dic
+2017-05-11 10:56:28  [ main:369 ] - [ INFO ]  init core library ok use time : 354
+2017-05-11 10:56:28  [ main:698 ] - [ INFO ]  init ngram ok use time :322
+2017-05-11 10:56:56  [ main:0 ] - [ WARN ]  not find library.properties in classpath use it by default !
+2017-05-11 10:56:56  [ main:4 ] - [ INFO ]  path to stream library/ambiguity.dic
+2017-05-11 10:56:56  [ main:5 ] - [ ERROR ]  Init ambiguity library error :org.ansj.exception.LibraryException:  path :library/ambiguity.dic file:G:\QALD\BuddhismQuestionAnsweringSystem-master\library\ambiguity.dic not found or can not to read, path: library/ambiguity.dic
+2017-05-11 10:56:56  [ main:6 ] - [ DEBUG ]  begin init dic !
+2017-05-11 10:56:56  [ main:6 ] - [ INFO ]  path to stream library/default.dic
+2017-05-11 10:56:56  [ main:6 ] - [ ERROR ]  Init ambiguity library error :org.ansj.exception.LibraryException:  path :library/default.dic file:G:\QALD\BuddhismQuestionAnsweringSystem-master\library\default.dic not found or can not to read, path: library/default.dic
+2017-05-11 10:56:56  [ main:371 ] - [ INFO ]  init core library ok use time : 355
+2017-05-11 10:56:57  [ main:702 ] - [ INFO ]  init ngram ok use time :323
+2017-05-11 10:57:11  [ main:0 ] - [ WARN ]  not find library.properties in classpath use it by default !
+2017-05-11 10:57:11  [ main:5 ] - [ INFO ]  path to stream library/ambiguity.dic
+2017-05-11 10:57:11  [ main:6 ] - [ ERROR ]  Init ambiguity library error :org.ansj.exception.LibraryException:  path :library/ambiguity.dic file:G:\QALD\BuddhismQuestionAnsweringSystem-master\library\ambiguity.dic not found or can not to read, path: library/ambiguity.dic
+2017-05-11 10:57:11  [ main:7 ] - [ DEBUG ]  begin init dic !
+2017-05-11 10:57:11  [ main:7 ] - [ INFO ]  path to stream library/default.dic
+2017-05-11 10:57:11  [ main:8 ] - [ ERROR ]  Init ambiguity library error :org.ansj.exception.LibraryException:  path :library/default.dic file:G:\QALD\BuddhismQuestionAnsweringSystem-master\library\default.dic not found or can not to read, path: library/default.dic
+2017-05-11 10:57:11  [ main:399 ] - [ INFO ]  init core library ok use time : 378
+2017-05-11 10:57:12  [ main:727 ] - [ INFO ]  init ngram ok use time :320
+2017-05-11 10:57:19  [ main:0 ] - [ WARN ]  not find library.properties in classpath use it by default !
+2017-05-11 10:57:19  [ main:4 ] - [ INFO ]  path to stream library/ambiguity.dic
+2017-05-11 10:57:19  [ main:4 ] - [ ERROR ]  Init ambiguity library error :org.ansj.exception.LibraryException:  path :library/ambiguity.dic file:G:\QALD\BuddhismQuestionAnsweringSystem-master\library\ambiguity.dic not found or can not to read, path: library/ambiguity.dic
+2017-05-11 10:57:19  [ main:5 ] - [ DEBUG ]  begin init dic !
+2017-05-11 10:57:19  [ main:5 ] - [ INFO ]  path to stream library/default.dic
+2017-05-11 10:57:19  [ main:6 ] - [ ERROR ]  Init ambiguity library error :org.ansj.exception.LibraryException:  path :library/default.dic file:G:\QALD\BuddhismQuestionAnsweringSystem-master\library\default.dic not found or can not to read, path: library/default.dic
+2017-05-11 10:57:19  [ main:360 ] - [ INFO ]  init core library ok use time : 346
+2017-05-11 10:57:19  [ main:688 ] - [ INFO ]  init ngram ok use time :319
+2017-05-11 10:57:29  [ main:0 ] - [ WARN ]  not find library.properties in classpath use it by default !
+2017-05-11 10:57:29  [ main:4 ] - [ INFO ]  path to stream library/ambiguity.dic
+2017-05-11 10:57:29  [ main:4 ] - [ ERROR ]  Init ambiguity library error :org.ansj.exception.LibraryException:  path :library/ambiguity.dic file:G:\QALD\BuddhismQuestionAnsweringSystem-master\library\ambiguity.dic not found or can not to read, path: library/ambiguity.dic
+2017-05-11 10:57:29  [ main:5 ] - [ DEBUG ]  begin init dic !
+2017-05-11 10:57:29  [ main:5 ] - [ INFO ]  path to stream library/default.dic
+2017-05-11 10:57:29  [ main:6 ] - [ ERROR ]  Init ambiguity library error :org.ansj.exception.LibraryException:  path :library/default.dic file:G:\QALD\BuddhismQuestionAnsweringSystem-master\library\default.dic not found or can not to read, path: library/default.dic
+2017-05-11 10:57:29  [ main:383 ] - [ INFO ]  init core library ok use time : 368
+2017-05-11 10:57:29  [ main:712 ] - [ INFO ]  init ngram ok use time :321
+2017-05-11 11:04:39  [ main:0 ] - [ WARN ]  not find library.properties in classpath use it by default !
+2017-05-11 11:04:39  [ main:4 ] - [ INFO ]  path to stream library/ambiguity.dic
+2017-05-11 11:04:39  [ main:5 ] - [ ERROR ]  Init ambiguity library error :org.ansj.exception.LibraryException:  path :library/ambiguity.dic file:G:\QALD\BuddhismQuestionAnsweringSystem-master\library\ambiguity.dic not found or can not to read, path: library/ambiguity.dic
+2017-05-11 11:04:39  [ main:6 ] - [ DEBUG ]  begin init dic !
+2017-05-11 11:04:39  [ main:6 ] - [ INFO ]  path to stream library/default.dic
+2017-05-11 11:04:39  [ main:6 ] - [ ERROR ]  Init ambiguity library error :org.ansj.exception.LibraryException:  path :library/default.dic file:G:\QALD\BuddhismQuestionAnsweringSystem-master\library\default.dic not found or can not to read, path: library/default.dic
+2017-05-11 11:04:40  [ main:380 ] - [ INFO ]  init core library ok use time : 364
+2017-05-11 11:04:40  [ main:702 ] - [ INFO ]  init ngram ok use time :312
+2017-05-11 11:05:55  [ main:0 ] - [ WARN ]  not find library.properties in classpath use it by default !
+2017-05-11 11:05:55  [ main:5 ] - [ INFO ]  path to stream library/ambiguity.dic
+2017-05-11 11:05:55  [ main:5 ] - [ ERROR ]  Init ambiguity library error :org.ansj.exception.LibraryException:  path :library/ambiguity.dic file:G:\QALD\BuddhismQuestionAnsweringSystem-master\library\ambiguity.dic not found or can not to read, path: library/ambiguity.dic
+2017-05-11 11:05:55  [ main:6 ] - [ DEBUG ]  begin init dic !
+2017-05-11 11:05:55  [ main:7 ] - [ INFO ]  path to stream library/default.dic
+2017-05-11 11:05:55  [ main:7 ] - [ ERROR ]  Init ambiguity library error :org.ansj.exception.LibraryException:  path :library/default.dic file:G:\QALD\BuddhismQuestionAnsweringSystem-master\library\default.dic not found or can not to read, path: library/default.dic
+2017-05-11 11:05:55  [ main:367 ] - [ INFO ]  init core library ok use time : 351
+2017-05-11 11:05:56  [ main:687 ] - [ INFO ]  init ngram ok use time :311
+2017-05-11 11:06:04  [ main:0 ] - [ WARN ]  not find library.properties in classpath use it by default !
+2017-05-11 11:06:04  [ main:4 ] - [ INFO ]  path to stream library/ambiguity.dic
+2017-05-11 11:06:04  [ main:5 ] - [ ERROR ]  Init ambiguity library error :org.ansj.exception.LibraryException:  path :library/ambiguity.dic file:G:\QALD\BuddhismQuestionAnsweringSystem-master\library\ambiguity.dic not found or can not to read, path: library/ambiguity.dic
+2017-05-11 11:06:04  [ main:6 ] - [ DEBUG ]  begin init dic !
+2017-05-11 11:06:04  [ main:6 ] - [ INFO ]  path to stream library/default.dic
+2017-05-11 11:06:04  [ main:6 ] - [ ERROR ]  Init ambiguity library error :org.ansj.exception.LibraryException:  path :library/default.dic file:G:\QALD\BuddhismQuestionAnsweringSystem-master\library\default.dic not found or can not to read, path: library/default.dic
+2017-05-11 11:06:05  [ main:380 ] - [ INFO ]  init core library ok use time : 365
+2017-05-11 11:06:05  [ main:700 ] - [ INFO ]  init ngram ok use time :311
+2017-05-11 11:06:18  [ main:0 ] - [ WARN ]  not find library.properties in classpath use it by default !
+2017-05-11 11:06:18  [ main:4 ] - [ INFO ]  path to stream library/ambiguity.dic
+2017-05-11 11:06:18  [ main:4 ] - [ ERROR ]  Init ambiguity library error :org.ansj.exception.LibraryException:  path :library/ambiguity.dic file:G:\QALD\BuddhismQuestionAnsweringSystem-master\library\ambiguity.dic not found or can not to read, path: library/ambiguity.dic
+2017-05-11 11:06:18  [ main:6 ] - [ DEBUG ]  begin init dic !
+2017-05-11 11:06:18  [ main:6 ] - [ INFO ]  path to stream library/default.dic
+2017-05-11 11:06:18  [ main:6 ] - [ ERROR ]  Init ambiguity library error :org.ansj.exception.LibraryException:  path :library/default.dic file:G:\QALD\BuddhismQuestionAnsweringSystem-master\library\default.dic not found or can not to read, path: library/default.dic
+2017-05-11 11:06:18  [ main:368 ] - [ INFO ]  init core library ok use time : 352
+2017-05-11 11:06:18  [ main:685 ] - [ INFO ]  init ngram ok use time :309
+2017-05-11 11:41:36  [ main:0 ] - [ WARN ]  not find library.properties in classpath use it by default !
+2017-05-11 11:41:36  [ main:52 ] - [ INFO ]  path to stream library/ambiguity.dic
+2017-05-11 11:41:36  [ main:52 ] - [ ERROR ]  Init ambiguity library error :org.ansj.exception.LibraryException:  path :library/ambiguity.dic file:G:\QALD\BuddhismQuestionAnsweringSystem-master\library\ambiguity.dic not found or can not to read, path: library/ambiguity.dic
+2017-05-11 11:41:36  [ main:54 ] - [ DEBUG ]  begin init dic !
+2017-05-11 11:41:36  [ main:55 ] - [ INFO ]  path to stream library/default.dic
+2017-05-11 11:41:36  [ main:55 ] - [ ERROR ]  Init ambiguity library error :org.ansj.exception.LibraryException:  path :library/default.dic file:G:\QALD\BuddhismQuestionAnsweringSystem-master\library\default.dic not found or can not to read, path: library/default.dic
+2017-05-11 11:41:36  [ main:547 ] - [ INFO ]  init core library ok use time : 444
+2017-05-11 11:41:37  [ main:907 ] - [ INFO ]  init ngram ok use time :351
+2017-05-11 11:41:48  [ main:0 ] - [ WARN ]  not find library.properties in classpath use it by default !
+2017-05-11 11:41:48  [ main:4 ] - [ INFO ]  path to stream library/ambiguity.dic
+2017-05-11 11:41:48  [ main:5 ] - [ ERROR ]  Init ambiguity library error :org.ansj.exception.LibraryException:  path :library/ambiguity.dic file:G:\QALD\BuddhismQuestionAnsweringSystem-master\library\ambiguity.dic not found or can not to read, path: library/ambiguity.dic
+2017-05-11 11:41:48  [ main:6 ] - [ DEBUG ]  begin init dic !
+2017-05-11 11:41:48  [ main:6 ] - [ INFO ]  path to stream library/default.dic
+2017-05-11 11:41:48  [ main:6 ] - [ ERROR ]  Init ambiguity library error :org.ansj.exception.LibraryException:  path :library/default.dic file:G:\QALD\BuddhismQuestionAnsweringSystem-master\library\default.dic not found or can not to read, path: library/default.dic
+2017-05-11 11:41:48  [ main:428 ] - [ INFO ]  init core library ok use time : 411
+2017-05-11 11:41:49  [ main:789 ] - [ INFO ]  init ngram ok use time :351
+2017-05-11 11:42:15  [ main:0 ] - [ WARN ]  not find library.properties in classpath use it by default !
+2017-05-11 11:42:15  [ main:5 ] - [ INFO ]  path to stream library/ambiguity.dic
+2017-05-11 11:42:15  [ main:5 ] - [ ERROR ]  Init ambiguity library error :org.ansj.exception.LibraryException:  path :library/ambiguity.dic file:G:\QALD\BuddhismQuestionAnsweringSystem-master\library\ambiguity.dic not found or can not to read, path: library/ambiguity.dic
+2017-05-11 11:42:15  [ main:6 ] - [ DEBUG ]  begin init dic !
+2017-05-11 11:42:15  [ main:6 ] - [ INFO ]  path to stream library/default.dic
+2017-05-11 11:42:15  [ main:7 ] - [ ERROR ]  Init ambiguity library error :org.ansj.exception.LibraryException:  path :library/default.dic file:G:\QALD\BuddhismQuestionAnsweringSystem-master\library\default.dic not found or can not to read, path: library/default.dic
+2017-05-11 11:42:15  [ main:413 ] - [ INFO ]  init core library ok use time : 397
+2017-05-11 11:42:16  [ main:758 ] - [ INFO ]  init ngram ok use time :336
+2017-05-11 11:42:33  [ main:0 ] - [ WARN ]  not find library.properties in classpath use it by default !
+2017-05-11 11:42:33  [ main:4 ] - [ INFO ]  path to stream library/ambiguity.dic
+2017-05-11 11:42:33  [ main:4 ] - [ ERROR ]  Init ambiguity library error :org.ansj.exception.LibraryException:  path :library/ambiguity.dic file:G:\QALD\BuddhismQuestionAnsweringSystem-master\library\ambiguity.dic not found or can not to read, path: library/ambiguity.dic
+2017-05-11 11:42:33  [ main:5 ] - [ DEBUG ]  begin init dic !
+2017-05-11 11:42:33  [ main:6 ] - [ INFO ]  path to stream library/default.dic
+2017-05-11 11:42:33  [ main:6 ] - [ ERROR ]  Init ambiguity library error :org.ansj.exception.LibraryException:  path :library/default.dic file:G:\QALD\BuddhismQuestionAnsweringSystem-master\library\default.dic not found or can not to read, path: library/default.dic
+2017-05-11 11:42:34  [ main:391 ] - [ INFO ]  init core library ok use time : 375
+2017-05-11 11:42:34  [ main:749 ] - [ INFO ]  init ngram ok use time :348
+2017-05-11 11:42:42  [ main:0 ] - [ WARN ]  not find library.properties in classpath use it by default !
+2017-05-11 11:42:42  [ main:4 ] - [ INFO ]  path to stream library/ambiguity.dic
+2017-05-11 11:42:42  [ main:5 ] - [ ERROR ]  Init ambiguity library error :org.ansj.exception.LibraryException:  path :library/ambiguity.dic file:G:\QALD\BuddhismQuestionAnsweringSystem-master\library\ambiguity.dic not found or can not to read, path: library/ambiguity.dic
+2017-05-11 11:42:42  [ main:6 ] - [ DEBUG ]  begin init dic !
+2017-05-11 11:42:42  [ main:6 ] - [ INFO ]  path to stream library/default.dic
+2017-05-11 11:42:42  [ main:6 ] - [ ERROR ]  Init ambiguity library error :org.ansj.exception.LibraryException:  path :library/default.dic file:G:\QALD\BuddhismQuestionAnsweringSystem-master\library\default.dic not found or can not to read, path: library/default.dic
+2017-05-11 11:42:43  [ main:417 ] - [ INFO ]  init core library ok use time : 401
+2017-05-11 11:42:43  [ main:751 ] - [ INFO ]  init ngram ok use time :325
+2017-05-11 11:42:53  [ main:0 ] - [ WARN ]  not find library.properties in classpath use it by default !
+2017-05-11 11:42:53  [ main:4 ] - [ INFO ]  path to stream library/ambiguity.dic
+2017-05-11 11:42:53  [ main:4 ] - [ ERROR ]  Init ambiguity library error :org.ansj.exception.LibraryException:  path :library/ambiguity.dic file:G:\QALD\BuddhismQuestionAnsweringSystem-master\library\ambiguity.dic not found or can not to read, path: library/ambiguity.dic
+2017-05-11 11:42:53  [ main:5 ] - [ DEBUG ]  begin init dic !
+2017-05-11 11:42:53  [ main:5 ] - [ INFO ]  path to stream library/default.dic
+2017-05-11 11:42:53  [ main:6 ] - [ ERROR ]  Init ambiguity library error :org.ansj.exception.LibraryException:  path :library/default.dic file:G:\QALD\BuddhismQuestionAnsweringSystem-master\library\default.dic not found or can not to read, path: library/default.dic
+2017-05-11 11:42:53  [ main:415 ] - [ INFO ]  init core library ok use time : 399
+2017-05-11 11:42:53  [ main:759 ] - [ INFO ]  init ngram ok use time :335
+2017-05-11 11:43:06  [ main:0 ] - [ WARN ]  not find library.properties in classpath use it by default !
+2017-05-11 11:43:06  [ main:4 ] - [ INFO ]  path to stream library/ambiguity.dic
+2017-05-11 11:43:06  [ main:5 ] - [ ERROR ]  Init ambiguity library error :org.ansj.exception.LibraryException:  path :library/ambiguity.dic file:G:\QALD\BuddhismQuestionAnsweringSystem-master\library\ambiguity.dic not found or can not to read, path: library/ambiguity.dic
+2017-05-11 11:43:06  [ main:6 ] - [ DEBUG ]  begin init dic !
+2017-05-11 11:43:06  [ main:6 ] - [ INFO ]  path to stream library/default.dic
+2017-05-11 11:43:06  [ main:6 ] - [ ERROR ]  Init ambiguity library error :org.ansj.exception.LibraryException:  path :library/default.dic file:G:\QALD\BuddhismQuestionAnsweringSystem-master\library\default.dic not found or can not to read, path: library/default.dic
+2017-05-11 11:43:07  [ main:385 ] - [ INFO ]  init core library ok use time : 368
+2017-05-11 11:43:07  [ main:724 ] - [ INFO ]  init ngram ok use time :329
+2017-05-11 11:43:20  [ main:0 ] - [ WARN ]  not find library.properties in classpath use it by default !
+2017-05-11 11:43:20  [ main:5 ] - [ INFO ]  path to stream library/ambiguity.dic
+2017-05-11 11:43:20  [ main:5 ] - [ ERROR ]  Init ambiguity library error :org.ansj.exception.LibraryException:  path :library/ambiguity.dic file:G:\QALD\BuddhismQuestionAnsweringSystem-master\library\ambiguity.dic not found or can not to read, path: library/ambiguity.dic
+2017-05-11 11:43:20  [ main:6 ] - [ DEBUG ]  begin init dic !
+2017-05-11 11:43:20  [ main:6 ] - [ INFO ]  path to stream library/default.dic
+2017-05-11 11:43:20  [ main:7 ] - [ ERROR ]  Init ambiguity library error :org.ansj.exception.LibraryException:  path :library/default.dic file:G:\QALD\BuddhismQuestionAnsweringSystem-master\library\default.dic not found or can not to read, path: library/default.dic
+2017-05-11 11:43:21  [ main:444 ] - [ INFO ]  init core library ok use time : 427
+2017-05-11 11:43:21  [ main:793 ] - [ INFO ]  init ngram ok use time :339
+2017-05-11 11:44:19  [ main:0 ] - [ WARN ]  not find library.properties in classpath use it by default !
+2017-05-11 11:44:19  [ main:4 ] - [ INFO ]  path to stream library/ambiguity.dic
+2017-05-11 11:44:19  [ main:5 ] - [ ERROR ]  Init ambiguity library error :org.ansj.exception.LibraryException:  path :library/ambiguity.dic file:G:\QALD\BuddhismQuestionAnsweringSystem-master\library\ambiguity.dic not found or can not to read, path: library/ambiguity.dic
+2017-05-11 11:44:19  [ main:6 ] - [ DEBUG ]  begin init dic !
+2017-05-11 11:44:19  [ main:6 ] - [ INFO ]  path to stream library/default.dic
+2017-05-11 11:44:19  [ main:6 ] - [ ERROR ]  Init ambiguity library error :org.ansj.exception.LibraryException:  path :library/default.dic file:G:\QALD\BuddhismQuestionAnsweringSystem-master\library\default.dic not found or can not to read, path: library/default.dic
+2017-05-11 11:44:20  [ main:416 ] - [ INFO ]  init core library ok use time : 400
+2017-05-11 11:44:20  [ main:761 ] - [ INFO ]  init ngram ok use time :337
+2017-05-11 11:46:16  [ main:0 ] - [ WARN ]  not find library.properties in classpath use it by default !
+2017-05-11 11:46:16  [ main:5 ] - [ INFO ]  path to stream library/ambiguity.dic
+2017-05-11 11:46:16  [ main:5 ] - [ ERROR ]  Init ambiguity library error :org.ansj.exception.LibraryException:  path :library/ambiguity.dic file:G:\QALD\BuddhismQuestionAnsweringSystem-master\library\ambiguity.dic not found or can not to read, path: library/ambiguity.dic
+2017-05-11 11:46:16  [ main:6 ] - [ DEBUG ]  begin init dic !
+2017-05-11 11:46:16  [ main:6 ] - [ INFO ]  path to stream library/default.dic
+2017-05-11 11:46:16  [ main:6 ] - [ ERROR ]  Init ambiguity library error :org.ansj.exception.LibraryException:  path :library/default.dic file:G:\QALD\BuddhismQuestionAnsweringSystem-master\library\default.dic not found or can not to read, path: library/default.dic
+2017-05-11 11:46:16  [ main:412 ] - [ INFO ]  init core library ok use time : 397
+2017-05-11 11:46:17  [ main:766 ] - [ INFO ]  init ngram ok use time :346
+2017-05-11 11:46:39  [ main:0 ] - [ WARN ]  not find library.properties in classpath use it by default !
+2017-05-11 11:46:39  [ main:4 ] - [ INFO ]  path to stream library/ambiguity.dic
+2017-05-11 11:46:39  [ main:4 ] - [ ERROR ]  Init ambiguity library error :org.ansj.exception.LibraryException:  path :library/ambiguity.dic file:G:\QALD\BuddhismQuestionAnsweringSystem-master\library\ambiguity.dic not found or can not to read, path: library/ambiguity.dic
+2017-05-11 11:46:39  [ main:5 ] - [ DEBUG ]  begin init dic !
+2017-05-11 11:46:39  [ main:6 ] - [ INFO ]  path to stream library/default.dic
+2017-05-11 11:46:39  [ main:6 ] - [ ERROR ]  Init ambiguity library error :org.ansj.exception.LibraryException:  path :library/default.dic file:G:\QALD\BuddhismQuestionAnsweringSystem-master\library\default.dic not found or can not to read, path: library/default.dic
+2017-05-11 11:46:40  [ main:411 ] - [ INFO ]  init core library ok use time : 393
+2017-05-11 11:46:40  [ main:757 ] - [ INFO ]  init ngram ok use time :338
+2017-05-11 11:51:34  [ main:0 ] - [ WARN ]  not find library.properties in classpath use it by default !
+2017-05-11 11:51:34  [ main:5 ] - [ INFO ]  path to stream library/ambiguity.dic
+2017-05-11 11:51:34  [ main:5 ] - [ ERROR ]  Init ambiguity library error :org.ansj.exception.LibraryException:  path :library/ambiguity.dic file:G:\QALD\BuddhismQuestionAnsweringSystem-master\library\ambiguity.dic not found or can not to read, path: library/ambiguity.dic
+2017-05-11 11:51:34  [ main:6 ] - [ DEBUG ]  begin init dic !
+2017-05-11 11:51:34  [ main:7 ] - [ INFO ]  path to stream library/default.dic
+2017-05-11 11:51:34  [ main:7 ] - [ ERROR ]  Init ambiguity library error :org.ansj.exception.LibraryException:  path :library/default.dic file:G:\QALD\BuddhismQuestionAnsweringSystem-master\library\default.dic not found or can not to read, path: library/default.dic
+2017-05-11 11:51:34  [ main:374 ] - [ INFO ]  init core library ok use time : 358
+2017-05-11 11:51:35  [ main:696 ] - [ INFO ]  init ngram ok use time :314
+2017-05-11 11:58:12  [ main:0 ] - [ WARN ]  not find library.properties in classpath use it by default !
+2017-05-11 11:58:12  [ main:5 ] - [ INFO ]  path to stream library/ambiguity.dic
+2017-05-11 11:58:12  [ main:5 ] - [ ERROR ]  Init ambiguity library error :org.ansj.exception.LibraryException:  path :library/ambiguity.dic file:G:\QALD\BuddhismQuestionAnsweringSystem-master\library\ambiguity.dic not found or can not to read, path: library/ambiguity.dic
+2017-05-11 11:58:12  [ main:6 ] - [ DEBUG ]  begin init dic !
+2017-05-11 11:58:12  [ main:6 ] - [ INFO ]  path to stream library/default.dic
+2017-05-11 11:58:12  [ main:7 ] - [ ERROR ]  Init ambiguity library error :org.ansj.exception.LibraryException:  path :library/default.dic file:G:\QALD\BuddhismQuestionAnsweringSystem-master\library\default.dic not found or can not to read, path: library/default.dic
+2017-05-11 11:58:12  [ main:388 ] - [ INFO ]  init core library ok use time : 373
+2017-05-11 11:58:13  [ main:737 ] - [ INFO ]  init ngram ok use time :341
+2017-05-11 11:59:00  [ main:0 ] - [ INFO ]  load library not find in classPath ! i find it in G:\QALD\BuddhismQuestionAnsweringSystem-master\library.properties make sure it is your config!
+2017-05-11 11:59:00  [ main:3 ] - [ INFO ]  init ambiguityLibrary to env value is : library/ambiguity.dic
+2017-05-11 11:59:00  [ main:3 ] - [ INFO ]  init isQuantifierRecognition to env value is : true
+2017-05-11 11:59:00  [ main:4 ] - [ INFO ]  init isRealName to env value is : true
+2017-05-11 11:59:00  [ main:4 ] - [ INFO ]  init isNameRecognition to env value is : true
+2017-05-11 11:59:00  [ main:5 ] - [ INFO ]  init isNumRecognition to env value is : true
+2017-05-11 11:59:00  [ main:5 ] - [ INFO ]  init dic to env value is : library/default.dic
+2017-05-11 11:59:00  [ main:6 ] - [ INFO ]  path to stream library/ambiguity.dic
+2017-05-11 11:59:00  [ main:7 ] - [ ERROR ]  Init ambiguity library error :org.ansj.exception.LibraryException:  path :library/ambiguity.dic file:G:\QALD\BuddhismQuestionAnsweringSystem-master\library\ambiguity.dic not found or can not to read, path: library/ambiguity.dic
+2017-05-11 11:59:00  [ main:8 ] - [ DEBUG ]  begin init dic !
+2017-05-11 11:59:00  [ main:8 ] - [ INFO ]  path to stream library/default.dic
+2017-05-11 11:59:00  [ main:8 ] - [ ERROR ]  Init ambiguity library error :org.ansj.exception.LibraryException:  path :library/default.dic file:G:\QALD\BuddhismQuestionAnsweringSystem-master\library\default.dic not found or can not to read, path: library/default.dic
+2017-05-11 11:59:00  [ main:477 ] - [ INFO ]  init core library ok use time : 459
+2017-05-11 11:59:01  [ main:832 ] - [ INFO ]  init ngram ok use time :343
+2017-05-11 11:59:32  [ main:0 ] - [ WARN ]  not find library.properties in classpath use it by default !
+2017-05-11 11:59:32  [ main:4 ] - [ INFO ]  path to stream library/ambiguity.dic
+2017-05-11 11:59:32  [ main:4 ] - [ ERROR ]  Init ambiguity library error :org.ansj.exception.LibraryException:  path :library/ambiguity.dic file:G:\QALD\BuddhismQuestionAnsweringSystem-master\library\ambiguity.dic not found or can not to read, path: library/ambiguity.dic
+2017-05-11 11:59:32  [ main:5 ] - [ DEBUG ]  begin init dic !
+2017-05-11 11:59:32  [ main:6 ] - [ INFO ]  path to stream library/default.dic
+2017-05-11 11:59:32  [ main:6 ] - [ ERROR ]  Init ambiguity library error :org.ansj.exception.LibraryException:  path :library/default.dic file:G:\QALD\BuddhismQuestionAnsweringSystem-master\library\default.dic not found or can not to read, path: library/default.dic
+2017-05-11 11:59:32  [ main:387 ] - [ INFO ]  init core library ok use time : 371
+2017-05-11 11:59:32  [ main:723 ] - [ INFO ]  init ngram ok use time :327
+2017-05-11 12:00:30  [ main:0 ] - [ INFO ]  load library not find in classPath ! i find it in G:\QALD\BuddhismQuestionAnsweringSystem-master\library.properties make sure it is your config!
+2017-05-11 12:00:30  [ main:6 ] - [ INFO ]  init ambiguityLibrary to env value is : library/ambiguity.dic
+2017-05-11 12:00:30  [ main:7 ] - [ INFO ]  init isQuantifierRecognition to env value is : true
+2017-05-11 12:00:30  [ main:9 ] - [ INFO ]  init isRealName to env value is : true
+2017-05-11 12:00:30  [ main:9 ] - [ INFO ]  init isNameRecognition to env value is : true
+2017-05-11 12:00:30  [ main:10 ] - [ INFO ]  init isNumRecognition to env value is : true
+2017-05-11 12:00:30  [ main:10 ] - [ INFO ]  init dic to env value is : library/default.dic
+2017-05-11 12:00:30  [ main:13 ] - [ INFO ]  path to stream library/ambiguity.dic
+2017-05-11 12:00:30  [ main:14 ] - [ ERROR ]  Init ambiguity library error :org.ansj.exception.LibraryException:  path :library/ambiguity.dic file:G:\QALD\BuddhismQuestionAnsweringSystem-master\library\ambiguity.dic not found or can not to read, path: library/ambiguity.dic
+2017-05-11 12:00:30  [ main:15 ] - [ DEBUG ]  begin init dic !
+2017-05-11 12:00:30  [ main:16 ] - [ INFO ]  path to stream library/default.dic
+2017-05-11 12:00:30  [ main:16 ] - [ ERROR ]  Init ambiguity library error :org.ansj.exception.LibraryException:  path :library/default.dic file:G:\QALD\BuddhismQuestionAnsweringSystem-master\library\default.dic not found or can not to read, path: library/default.dic
+2017-05-11 12:00:30  [ main:472 ] - [ INFO ]  init core library ok use time : 440
+2017-05-11 12:00:30  [ main:864 ] - [ INFO ]  init ngram ok use time :383
+2017-05-11 12:02:08  [ main:0 ] - [ WARN ]  not find library.properties in classpath use it by default !
+2017-05-11 12:02:08  [ main:4 ] - [ INFO ]  path to stream library/ambiguity.dic
+2017-05-11 12:02:08  [ main:5 ] - [ ERROR ]  Init ambiguity library error :org.ansj.exception.LibraryException:  path :library/ambiguity.dic file:G:\QALD\BuddhismQuestionAnsweringSystem-master\library\ambiguity.dic not found or can not to read, path: library/ambiguity.dic
+2017-05-11 12:02:08  [ main:6 ] - [ DEBUG ]  begin init dic !
+2017-05-11 12:02:08  [ main:6 ] - [ INFO ]  path to stream library/default.dic
+2017-05-11 12:02:08  [ main:6 ] - [ ERROR ]  Init ambiguity library error :org.ansj.exception.LibraryException:  path :library/default.dic file:G:\QALD\BuddhismQuestionAnsweringSystem-master\library\default.dic not found or can not to read, path: library/default.dic
+2017-05-11 12:02:08  [ main:405 ] - [ INFO ]  init core library ok use time : 390
+2017-05-11 12:02:08  [ main:739 ] - [ INFO ]  init ngram ok use time :325
+2017-05-11 12:04:43  [ main:0 ] - [ WARN ]  not find library.properties in classpath use it by default !
+2017-05-11 12:04:43  [ main:4 ] - [ INFO ]  path to stream library/ambiguity.dic
+2017-05-11 12:04:43  [ main:5 ] - [ ERROR ]  Init ambiguity library error :org.ansj.exception.LibraryException:  path :library/ambiguity.dic file:G:\QALD\BuddhismQuestionAnsweringSystem-master\library\ambiguity.dic not found or can not to read, path: library/ambiguity.dic
+2017-05-11 12:04:43  [ main:6 ] - [ DEBUG ]  begin init dic !
+2017-05-11 12:04:43  [ main:6 ] - [ INFO ]  path to stream library/default.dic
+2017-05-11 12:04:43  [ main:6 ] - [ ERROR ]  Init ambiguity library error :org.ansj.exception.LibraryException:  path :library/default.dic file:G:\QALD\BuddhismQuestionAnsweringSystem-master\library\default.dic not found or can not to read, path: library/default.dic
+2017-05-11 12:04:44  [ main:379 ] - [ INFO ]  init core library ok use time : 363
+2017-05-11 12:04:44  [ main:699 ] - [ INFO ]  init ngram ok use time :312

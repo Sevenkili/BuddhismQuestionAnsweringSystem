@@ -1,0 +1,10 @@
+2017-05-09 16:34:37  [ main:0 ] - [ INFO ]  load data from question.xml
+2017-05-09 23:39:40  [ main:0 ] - [ DEBUG ]  to create tokenizer {type=base_ansj}
+2017-05-09 23:39:44  [ main:3837 ] - [ WARN ]  not find library.properties in classpath use it by default !
+2017-05-09 23:39:44  [ main:3867 ] - [ INFO ]  path to stream library/ambiguity.dic
+2017-05-09 23:39:44  [ main:3868 ] - [ ERROR ]  Init ambiguity library error :org.ansj.exception.LibraryException:  path :library/ambiguity.dic file:G:\QALD\BuddhismQuestionAnsweringSystem-master\library\ambiguity.dic not found or can not to read, path: library/ambiguity.dic
+2017-05-09 23:39:44  [ main:3870 ] - [ DEBUG ]  begin init dic !
+2017-05-09 23:39:44  [ main:3870 ] - [ INFO ]  path to stream library/default.dic
+2017-05-09 23:39:44  [ main:3871 ] - [ ERROR ]  Init ambiguity library error :org.ansj.exception.LibraryException:  path :library/default.dic file:G:\QALD\BuddhismQuestionAnsweringSystem-master\library\default.dic not found or can not to read, path: library/default.dic
+2017-05-09 23:39:44  [ main:4168 ] - [ INFO ]  init core library ok use time : 283
+2017-05-09 23:39:45  [ main:4516 ] - [ INFO ]  init ngram ok use time :289

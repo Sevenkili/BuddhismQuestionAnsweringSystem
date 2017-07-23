@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://F:/qq/863730413/FileRecv/JiebaTokenizer.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/buddhism/qa/analysis/Words.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/buddhism/qa/analysis/answer/AnswerRewriteFilter.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/buddhism/qa/files/FileConfig.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/buddhism/qa/retrieval/GenerateQuery.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/buddhism/qa/score/ReturnAnswer.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/buddhism/qa/score/answer/TermFrequencyCandidateScore.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/buddhism/qa/score/answer/TextualAlignmentCandidateAnswerScore.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/buddhism/qa/score/evidence/TermMatchEvidenceScore.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/buddhism/qa/system/Demo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/buddhism/qa/util/lucene/AnalyzerTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/buddhism/qa/util/lucene/FieldQueryTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/buddhism/qa/util/lucene/IndexTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/buddhism/qa/util/lucene/StopAnalyzerExtend.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/buddhism/qa/util/lucene/jieba/JiebaTokenizer.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/buddhism/qa/util/segmentation/AnsjTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/buddhism/qa/util/segmentation/AnsjTest1.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/buddhism/qa/util/segmentation/JiebaTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/buddhism/qa/util/segmentation/Segmentor.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/test/com/buddhism/qa/analysis/SegmentTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/test/com/buddhism/qa/analysis/answer/AnswerRewriteFilterTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/test/com/buddhism/qa/analysis/answer/OptionRewriteTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/test/com/buddhism/qa/datasource/document/IndexFileTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/test/com/buddhism/qa/datasource/document/IndexWikiTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/test/com/buddhism/qa/datasource/evidence/IndexWikiTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/test/com/buddhism/qa/score/answer/TermFrequencyCandidateScoreTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/test/com/buddhism/qa/score/evidence/TermMatchEvidenceScoreTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/test/com/buddhism/qa/util/lucene/AnalyzerTestTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/test/com/buddhism/qa/util/lucene/CourtesyTitleFilterTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/test/com/buddhism/qa/util/segmentation/AnsjTestTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/test/com/buddhism/qa/util/segmentation/SingletonSegmentorTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/test/com/buddhism/qa/util/xml/QuestionParserTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/lucene_index_directory/_0.cfe" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/question/questions1.xml" charset="GBK" />
+  </component>
+</project>

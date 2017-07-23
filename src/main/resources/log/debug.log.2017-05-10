@@ -1,0 +1,16 @@
+2017-05-10 22:40:44  [ main:0 ] - [ WARN ]  not find library.properties in classpath use it by default !
+2017-05-10 22:40:44  [ main:29 ] - [ INFO ]  path to stream library/ambiguity.dic
+2017-05-10 22:40:44  [ main:30 ] - [ ERROR ]  Init ambiguity library error :org.ansj.exception.LibraryException:  path :library/ambiguity.dic file:G:\QALD\BuddhismQuestionAnsweringSystem-master\library\ambiguity.dic not found or can not to read, path: library/ambiguity.dic
+2017-05-10 22:40:44  [ main:32 ] - [ DEBUG ]  begin init dic !
+2017-05-10 22:40:44  [ main:33 ] - [ INFO ]  path to stream library/default.dic
+2017-05-10 22:40:44  [ main:33 ] - [ ERROR ]  Init ambiguity library error :org.ansj.exception.LibraryException:  path :library/default.dic file:G:\QALD\BuddhismQuestionAnsweringSystem-master\library\default.dic not found or can not to read, path: library/default.dic
+2017-05-10 22:40:44  [ main:577 ] - [ INFO ]  init core library ok use time : 506
+2017-05-10 22:40:45  [ main:1064 ] - [ INFO ]  init ngram ok use time :478
+2017-05-10 22:50:30  [ main:0 ] - [ WARN ]  not find library.properties in classpath use it by default !
+2017-05-10 22:50:30  [ main:6 ] - [ INFO ]  path to stream library/ambiguity.dic
+2017-05-10 22:50:30  [ main:7 ] - [ ERROR ]  Init ambiguity library error :org.ansj.exception.LibraryException:  path :library/ambiguity.dic file:G:\QALD\BuddhismQuestionAnsweringSystem-master\library\ambiguity.dic not found or can not to read, path: library/ambiguity.dic
+2017-05-10 22:50:30  [ main:9 ] - [ DEBUG ]  begin init dic !
+2017-05-10 22:50:30  [ main:9 ] - [ INFO ]  path to stream library/default.dic
+2017-05-10 22:50:30  [ main:9 ] - [ ERROR ]  Init ambiguity library error :org.ansj.exception.LibraryException:  path :library/default.dic file:G:\QALD\BuddhismQuestionAnsweringSystem-master\library\default.dic not found or can not to read, path: library/default.dic
+2017-05-10 22:50:30  [ main:424 ] - [ INFO ]  init core library ok use time : 406
+2017-05-10 22:50:31  [ main:816 ] - [ INFO ]  init ngram ok use time :383

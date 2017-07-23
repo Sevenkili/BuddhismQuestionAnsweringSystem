@@ -1,0 +1,1715 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Patterns>
+    <Pattern>
+        <id>1</id>
+        <questionStem>内心起瞋恚，要以()对治</questionStem>
+        <wordlist>内心|起|瞋恚|，|要|以|(|)|对治</wordlist>
+		<POSlist>内心/n 起/v 瞋恚/bpn_d ，/x 要/v 以/p (/x )/x 对治/bpn_d</POSlist>
+        <questionType>术语|直答</questionType>
+        <Pattern1>「.*vp\(\)(bpn_d)」</Pattern1>
+        <Pattern2>「.*vp\(\)(bpn_d)」</Pattern2>
+        <StandardQuestion>2</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>2</id>
+        <questionStem>人是众因缘和合而生，故名()</questionStem>
+        <wordlist>人|是|众|因缘和合|而|生|，|故|名|(|)</wordlist>
+		<POSlist>人/n 是/v 众/ng 因缘和合/bpn_d 而/c 生/bpn_d ，/x 故/n 名/q (/x )/x</POSlist>
+        <questionType>术语|直答</questionType>
+        <Pattern1>「.*nq\(\)」</Pattern1>
+        <Pattern2>「.*nq\(\)」</Pattern2>
+        <StandardQuestion>2</StandardQuestion>
+    </Pattern>
+	<Pattern>
+        <id>3</id>
+        <questionStem>人所居住的国土是()</questionStem>
+        <wordlist>人|所|居住|的|国土|是|(|)</wordlist>
+		<POSlist>人/n 所/bpn_d 居住/v 的/uj 国土/n 是/v (/x )/x</POSlist>
+        <questionType>地点|直答</questionType>
+        <Pattern1>「.*(uj)nv\(\)」</Pattern1>
+        <Pattern2>「.*(bpn_d)v(uj)nv\(\)」</Pattern2>
+        <StandardQuestion>1</StandardQuestion>
+    </Pattern>
+	<Pattern>
+        <id>4</id>
+        <questionStem>佛陀在()为五比丘说法</questionStem>
+        <wordlist>佛陀|在|(|)|为|五比丘|说法</wordlist>
+		<POSlist>佛陀/nz 在/p (/x )/x 为/p 五比丘/bpn_x 说法/bpn_dl</POSlist>
+        <questionType>地点|直答</questionType>
+        <Pattern1>「nzp\(\)p(bpn_x)(bpn_dl)」</Pattern1>
+        <Pattern2>「(nz)p\(\)p(bpn_x)(bpn_dl)」</Pattern2>
+        <StandardQuestion>2</StandardQuestion>
+    </Pattern>
+	<Pattern>
+        <id>5</id>
+        <questionStem>佛陀告诉我们人生有()</questionStem>
+        <wordlist>佛陀|告诉|我们|人生|有|(|)</wordlist>
+		<POSlist>佛陀/nz 告诉/v 我们/r 人生/n 有/bpn_d (/x )/x</POSlist>
+        <questionType>术语|列举</questionType>
+        <Pattern1>「(nz)v.*\(\)」</Pattern1>
+        <Pattern2>「(nz)vrn(bpn_d)\(\)」</Pattern2>
+        <StandardQuestion>1</StandardQuestion>
+    </Pattern>
+	<Pattern>
+        <id>6</id>
+        <questionStem>声闻是听闻到()而悟道</questionStem>
+        <wordlist>声闻|是|听|闻到|(|)|而|悟道</wordlist>
+		<POSlist>声闻/bpn_d 是/v 听/v 闻到/v (/x )/x 而/c 悟道/v</POSlist>
+        <questionType>术语|直答</questionType>
+        <Pattern1>「(bpn_d)v.*\(\).*」</Pattern1>
+        <Pattern2>「(bpn_d)v.*\(\)cv」</Pattern2>
+        <StandardQuestion>2</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>7</id>
+        <questionStem>佛陀的侍者()</questionStem>
+        <wordlist>佛陀|的|侍者|(|)</wordlist>
+		<POSlist>佛陀/nz 的/uj 侍者/n (/x )/x</POSlist>
+        <questionType>人物|直答</questionType>
+        <Pattern1>「(nz)(uj)n\(\)」</Pattern1>
+        <Pattern2>「(nz)(uj)n\(\)」</Pattern2>
+        <StandardQuestion>2</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>8</id>
+        <questionStem>断除三界烦恼的圣人是()</questionStem>
+        <wordlist>断除|三界|烦恼|的|圣人|是|(|)</wordlist>
+		<POSlist>断除/v 三界/bpn_d 烦恼/bpn_d 的/uj 圣人/n 是/v (/x )/x</POSlist>
+        <questionType>人物|直答</questionType>
+        <Pattern1>「.*(bpn_d)(uj)nv\(\)」</Pattern1>
+        <Pattern2>「.*(bpn_d)(uj)nv\(\)」</Pattern2>
+        <StandardQuestion>2</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>9</id>
+        <questionStem>弥勒菩萨住在()</questionStem>
+        <wordlist>弥勒|菩萨|住|在|(|)</wordlist>
+		<POSlist>弥勒/nz 菩萨/n 住/v 在/p (/x )/x</POSlist>
+        <questionType>地点|直答</questionType>
+        <Pattern1>「.*nvp\(\)」</Pattern1>
+        <Pattern2>「.*nvp\(\)」</Pattern2>
+        <StandardQuestion>1</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>10</id>
+        <questionStem>净土宗的莲池大师是指()</questionStem>
+        <wordlist>净土宗|的|莲池大师|是|指|(|)</wordlist>
+		<POSlist>净土宗/bpn_s 的/uj 莲池大师/bpn_p 是/v 指/n (/x )/x</POSlist>
+        <questionType>人物|直答</questionType>
+        <Pattern1>「.*vn\(\)」</Pattern1>
+        <Pattern2>「.*(uj)(bpn_p)vn\(\)」</Pattern2>
+        <StandardQuestion>1</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>11</id>
+        <questionStem>称为妙吉祥的菩萨是()</questionStem>
+        <wordlist>称为|妙吉祥|的|菩萨|是|(|)</wordlist>
+		<POSlist>称为/v 妙吉祥/bpn_d 的/uj 菩萨/n 是/v (/x )/x</POSlist>
+        <questionType>人物|直答</questionType>
+        <Pattern1>「v(.*)?nv\(\)」</Pattern1>
+        <Pattern2>「v(bpn_p)(uj)nv\(\)」</Pattern2>
+        <StandardQuestion>1</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>12</id>
+        <questionStem>在家的菩萨戒是受()</questionStem>
+        <wordlist>在家|的|菩萨戒|是|受|(|)</wordlist>
+		<POSlist>在家/r 的/uj 菩萨戒/bpn_x 是/v 受/bpn_d (/x )/x</POSlist>
+        <questionType>术语|直答</questionType>
+        <Pattern1>「.*(bpn_x)v(bpn_d)\(\)」</Pattern1>
+        <Pattern2>「.*(bpn_x)v(bpn_d)\(\)」</Pattern2>
+        <StandardQuestion>2</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>13</id>
+        <questionStem>菩萨初地是()</questionStem>
+        <wordlist>菩萨|初地|是|(|)</wordlist>
+		<POSlist>菩萨/n 初地/bpn_d 是/v (/x )/x</POSlist>
+        <questionType>地点|直答</questionType>
+        <Pattern1>「.*(bpn_d)v/(/)」</Pattern1>
+        <Pattern2>「.*(bpn_d)v/(/)」</Pattern2>
+        <StandardQuestion>1</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>14</id>
+        <questionStem>僧伽是()</questionStem>
+        <wordlist>僧伽|是|(|)</wordlist>
+		<POSlist>僧伽/bpn_p 是/v (/x )/x</POSlist>
+        <questionType>术语|直答</questionType>
+        <Pattern1>「(bpn_p)v\(\)」</Pattern1>
+        <Pattern2>「(bpn_p)v\(\)」</Pattern2>
+        <StandardQuestion>1</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>15</id>
+        <questionStem>吾人所居的娑婆世界，经中称()</questionStem>
+        <wordlist>吾人|所居|的|娑婆世界|，|经|中|称|(|)</wordlist>
+		<POSlist>吾人/r 所居/v 的/uj 娑婆世界/bpn_g ，/x 经/p 中/f 称/v (/x )/x</POSlist>
+        <questionType>术语|直答</questionType>
+        <Pattern1>「.*pfv\(\)」</Pattern1>
+        <Pattern2>「.*(uj)(bpn_g).*pfv\(\)」</Pattern2>
+        <StandardQuestion>2</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>16</id>
+        <questionStem>佛教最短的经是()</questionStem>
+        <wordlist>佛教|最短|的|经是|(|)</wordlist>
+		<POSlist>佛教/bpn_d 最短/z 的/uj 经是/n (/x )/x</POSlist>
+        <questionType>经名|直答</questionType>
+        <Pattern1>「.*(uj)n\(\)」</Pattern1>
+        <Pattern2>「.*(uj)n\(\)」</Pattern2>
+        <StandardQuestion>2</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>17</id>
+        <questionStem>净土三经是指()</questionStem>
+        <wordlist>净土三经|是|指|(|)</wordlist>
+		<POSlist>净土三经/bpn_x 是/v 指/n (/x )/x</POSlist>
+        <questionType>经名|直答|并称</questionType>
+        <Pattern1>「(bpn_x)vn\(\)」</Pattern1>
+        <Pattern2>「(bpn_x)vn\(\)」</Pattern2>
+        <StandardQuestion>1</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>18</id>
+        <questionStem>佛教最早传入中国的经典是()</questionStem>
+        <wordlist>佛教|最早|传入|中国|的|经典|是|(|)</wordlist>
+		<POSlist>佛教/bpn_d 最早/d 传入/v 中国/bpn_g 的/uj 经典/n 是/v (/x )/x</POSlist>
+        <questionType>经名|直答</questionType>
+        <Pattern1>「.*nv\(\)」</Pattern1>
+        <Pattern2>「.*v(bpn_g)(uj)nv\(\)」</Pattern2>
+        <StandardQuestion>1</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>19</id>
+        <questionStem>欲行菩萨道，首先要具备的条件是()</questionStem>
+        <wordlist>欲|行|菩萨道|，|首先|要|具备|的|条件|是|(|)</wordlist>
+		<POSlist>欲/bpn_d 行/bpn_d 菩萨道/bpn_d ，/x 首先/d 要/v 具备/v 的/uj 条件/n 是/v (/x )/x</POSlist>
+        <questionType>术语|直答</questionType>
+        <Pattern1>「.*vv.*nv\(\)」</Pattern1>
+        <Pattern2>「.*vv.*nv\(\)」</Pattern2>
+        <StandardQuestion>2</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>20</id>
+        <questionStem>第一位到中国的有名译经家是()</questionStem>
+        <wordlist>第一位|到|中国|的|有名|译经|家|是|(|)</wordlist>
+		<POSlist>第一位/m 到/v 中国/bpn_g 的/uj 有名/a 译经/bpn_dl 家/m 是/v (/x )/x</POSlist>
+        <questionType>人物|直答</questionType>
+        <Pattern1>「.*(bpn_dl)mv\(\)」</Pattern1>
+        <Pattern2>「.*(bpn_dl)mv\(\)」</Pattern2>
+        <StandardQuestion>1</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>21</id>
+        <questionStem>佛陀开示弟子当精进不放逸，因为人命在()</questionStem>
+        <wordlist>佛陀|开示|弟子|当|精进|不放逸|，|因为|人命|在|(|)</wordlist>
+		<POSlist>佛陀/nz 开示/v 弟子/n 当/t 精进/bpn_d 不放逸/bpn_d ，/x 因为/c 人命/n 在/p (/x )/x</POSlist>
+        <questionType>术语|直答</questionType>
+        <Pattern1>「.*cnp\(\)」</Pattern1>
+        <Pattern2>「(nz)v.*cnp\(\)」</Pattern2>
+        <StandardQuestion>2</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>22</id>
+        <questionStem>何谓三藏</questionStem>
+        <wordlist>何谓|三藏</wordlist>
+		<POSlist>何谓/nr 三藏/bpn_b</POSlist>
+        <questionType>术语|直答|并称</questionType>
+        <Pattern1>「(nr)(bpn_b)」</Pattern1>
+        <Pattern2>「(nr)(bpn_b)」</Pattern2>
+        <StandardQuestion>1</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>23</id>
+        <questionStem>天台宗以()为依据</questionStem>
+        <wordlist>天台宗|以|(|)|为|依据</wordlist>
+		<POSlist>天台宗/bpn_s 以/p (/x )/x 为/p 依据/p</POSlist>
+        <questionType>经名|直答</questionType>
+        <Pattern1>「(bpn_s)p\(\)pp」</Pattern1>
+        <Pattern2>「(bpn_s)p\(\)pp」</Pattern2>
+        <StandardQuestion>2</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>24</id>
+        <questionStem>佛陀十大弟子中，智慧第一的是()</questionStem>
+        <wordlist>佛陀|十大弟子|中|，|智慧第一|的|是|(|)</wordlist>
+		<POSlist>佛陀/nz 十大弟子/bpn_x 中/f ，/x 智慧第一/bpn_x 的/uj 是/v (/x )/x</POSlist>
+        <questionType>人物|直答</questionType>
+        <Pattern1>「.*f.*(bpn_x)(uj)v\(\)」</Pattern1>
+        <Pattern2>「(bpn_s)p\(\)pp」</Pattern2>
+        <StandardQuestion>1</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>25</id>
+        <questionStem>八正道中，属于慧学的有()</questionStem>
+        <wordlist>八正道|中|，|属于|慧学|的|有|(|)</wordlist>
+		<POSlist>八正道/bpn_d 中/f ，/x 属于/v 慧学/bpn_d 的/uj 有/bpn_d (/x )/x</POSlist>
+        <questionType>人物|直答</questionType>
+        <Pattern1>「.*f.*v(bpn_d)(uj).*\(\)」</Pattern1>
+        <Pattern2>「(bpn_d)f.*v(bpn_d)(uj)(bpn_d)\(\)」</Pattern2>
+        <StandardQuestion>2</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>26</id>
+        <questionStem>佛教是属于()宗教</questionStem>
+        <wordlist>佛教|是|属于|(|)|宗教</wordlist>
+		<POSlist>佛教/bpn_d 是/v 属于/v (/x )/x 宗教/bpn_d</POSlist>
+        <questionType>未确定|不存在</questionType>
+        <Pattern1>「.*vv\(\).*」</Pattern1>
+        <Pattern2>「(bpn_d)vv\(\)(bpn_d)」</Pattern2>
+        <StandardQuestion>1</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>27</id>
+        <questionStem>佛陀弟子中，多闻第一的是()</questionStem>
+        <wordlist>佛陀|弟子|中|，|多闻第一|的|是|(|)</wordlist>
+		<POSlist>佛陀/nz 弟子/n 中/f ，/x 多闻第一/bpn_x 的/uj 是/v (/x )/x</POSlist>
+        <questionType>人物|直答</questionType>
+        <Pattern1>「.*f.*(bpn_x)(uj)v\(\)」</Pattern1>
+        <Pattern2>「.*f.*(bpn_x)(uj)v\(\)」</Pattern2>
+        <StandardQuestion>1</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>28</id>
+        <questionStem>《维摩经》的理想世界是()</questionStem>
+        <wordlist>《|维摩经|》|的|理想|世界|是|(|)</wordlist>
+		<POSlist>《/x 维摩经/bpn_b 》/x 的/uj 理想/n 世界/bpn_d 是/v (/x )/x</POSlist>
+        <questionType>术语|直答</questionType>
+        <Pattern1>「.*(uj).*(bpn_d)v\(\)」</Pattern1>
+        <Pattern2>「.*(uj).*(bpn_d)v\(\)」</Pattern2>
+        <StandardQuestion>2</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>29</id>
+        <questionStem>佛教史上第一座精舍为()</questionStem>
+        <wordlist>佛教史|上|第一座|精舍|为|(|)</wordlist>
+		<POSlist>佛教史/n 上/f 第一座/m 精舍/bpn_t 为/p (/x )/x</POSlist>
+        <questionType>未确定|直答</questionType>
+        <Pattern1>「.*f.*(bpn_t)p\(\)」</Pattern1>
+        <Pattern2>「.*f.*(bpn_t)p\(\)」</Pattern2>
+        <StandardQuestion>1</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>30</id>
+        <questionStem>六度的正确次序是()</questionStem>
+        <wordlist>六度|的|正确|次序|是|(|)</wordlist>
+		<POSlist>六度/ns 的/uj 正确/ad 次序/n 是/v (/x )/x</POSlist>
+        <questionType>术语|未确定|并称</questionType>
+        <Pattern1>「.*(uj).*nv\(\)」</Pattern1>
+        <Pattern2>「.*(uj).*nv\(\)」</Pattern2>
+        <StandardQuestion>2</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>31</id>
+        <questionStem>四大菩萨中，观音菩萨代表()</questionStem>
+        <wordlist>四大菩萨|中|，|观音菩萨|代表|(|)</wordlist>
+		<POSlist>四大菩萨/bpn_p 中/f ，/x 观音菩萨/n 代表/n (/x )/x</POSlist>
+        <questionType>术语|解释</questionType>
+        <Pattern1>「.*f.*n\(\)」</Pattern1>
+        <Pattern2>「(bpn_p)f.*nn\(\)」</Pattern2>
+        <StandardQuestion>1</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>32</id>
+        <questionStem>四大菩萨中，文殊菩萨代表()</questionStem>
+        <wordlist>四大菩萨|中|，|文殊菩萨|代表|(|)</wordlist>
+		<POSlist>四大菩萨/bpn_p 中/f ，/x 文殊菩萨/bpn_p 代表/n (/x )/x</POSlist>
+        <questionType>术语|解释</questionType>
+        <Pattern1>「.*f.*n\(\)」</Pattern1>
+        <Pattern2>「(bpn_p)f.*(bpn_p)n\(\)」</Pattern2>
+        <StandardQuestion>1</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>33</id>
+        <questionStem>四大菩萨中，普贤菩萨代表()</questionStem>
+        <wordlist>四大菩萨|中|，|普贤|菩萨|代表|(|)</wordlist>
+		<POSlist>四大菩萨/bpn_p 中/f ，/x 普贤/nr 菩萨/n 代表/n (/x )/x</POSlist>
+        <questionType>术语|解释</questionType>
+        <Pattern1>「.*f.*n\(\)」</Pattern1>
+        <Pattern2>「(bpn_p)f.*n\(\)」</Pattern2>
+        <StandardQuestion>1</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>34</id>
+        <questionStem>四大菩萨中，地藏菩萨代表()</questionStem>
+        <wordlist>四大菩萨|中|，|地藏菩萨|代表|(|)</wordlist>
+		<POSlist>四大菩萨/bpn_p 中/f ，/x 地藏菩萨/bpn_p 代表/n (/x )/x</POSlist>
+        <questionType>术语|解释</questionType>
+        <Pattern1>「.*f.*n\(\)」</Pattern1>
+        <Pattern2>「(bpn_p)f.*(bpn_p)n\(\)」</Pattern2>
+        <StandardQuestion>1</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>35</id>
+        <questionStem>西方三圣是()</questionStem>
+        <wordlist>西方|三圣|是|(|)</wordlist>
+		<POSlist>西方/s 三圣/bpn_x 是/v (/x )/x</POSlist>
+        <questionType>人物|直答|并称</questionType>
+        <Pattern1>「.*(bpn_x)v\(\)」</Pattern1>
+        <Pattern2>「.*(bpn_x)v\(\)」</Pattern2>
+        <StandardQuestion>1</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>36</id>
+        <questionStem>我们应当以()来认识世间上的善恶。</questionStem>
+        <wordlist>我们|应当|以|(|)|来|认识|世间|上|的|善恶|。</wordlist>
+		<POSlist>我们/r 应当/v 以/p (/x )/x 来/v 认识/v 世间/bpn_d 上/f 的/uj 善恶/a 。/x</POSlist>
+        <questionType>术语|直答</questionType>
+        <Pattern1>「.*p\(\)vv.*」</Pattern1>
+        <Pattern2>「rvp\(\)vv.*」</Pattern2>
+        <StandardQuestion>2</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>37</id>
+        <questionStem>学习佛法的过程中是修习()</questionStem>
+        <wordlist>学习|佛法|的|过程|中|是|修习|(|)</wordlist>
+		<POSlist>学习/v 佛法/nz 的/uj 过程/n 中/f 是/v 修习/v (/x )/x</POSlist>
+        <questionType>术语|直答</questionType>
+        <Pattern1>「.*(uj)nfvv\(\)」</Pattern1>
+        <Pattern2>「v.*(uj)nfvv\(\)」</Pattern2>
+        <StandardQuestion>2</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>38</id>
+        <questionStem>东方三圣是()</questionStem>
+        <wordlist>东方|三圣|是|(|)</wordlist>
+		<POSlist>东方/s 三圣/bpn_x 是/v (/x )/x</POSlist>
+        <questionType>人物|直答|并称</questionType>
+        <Pattern1>「.*(bpn_x)v\(\)」</Pattern1>
+        <Pattern2>「.*(bpn_x)v\(\)」</Pattern2>
+        <StandardQuestion>1</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>39</id>
+        <questionStem>佛教以莲花代表()</questionStem>
+        <wordlist>佛教|以|莲花|代表|(|)</wordlist>
+		<POSlist>佛教/bpn_d 以/p 莲花/n 代表/n (/x )/x</POSlist>
+        <questionType>术语|解释</questionType>
+        <Pattern1>「(bpn_d)pnn\(\)」</Pattern1>
+        <Pattern2>「(bpn_d)pnn\(\)」</Pattern2>
+        <StandardQuestion>1</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>40</id>
+        <questionStem>佛门的四众弟子是指()</questionStem>
+        <wordlist>佛门|的|四众|弟子|是|指|(|)</wordlist>
+		<POSlist>佛门/ns 的/uj 四众/bpn_x 弟子/n 是/v 指/n (/x )/x</POSlist>
+        <questionType>术语|直答|并称</questionType>
+        <Pattern1>「.*(uj)(bpn_x)n?vn\(\)」</Pattern1>
+        <Pattern2>「.*(uj)(bpn_x)n?vn\(\)」</Pattern2>
+        <StandardQuestion>1</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>41</id>
+        <questionStem>原始佛教的基本教义是()</questionStem>
+        <wordlist>原始佛教|的|基本|教义|是|(|)</wordlist>
+		<POSlist>原始佛教/bpn_x 的/uj 基本/n 教义/n 是/v (/x )/x</POSlist>
+        <questionType>未确定|解释</questionType>
+        <Pattern1>「.*(uj).*nv\(\)」</Pattern1>
+        <Pattern2>「.*(uj).*nv\(\)」</Pattern2>
+        <StandardQuestion>2</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>42</id>
+        <questionStem>普贤骑象表示()之威猛。</questionStem>
+        <wordlist>普贤|骑象|表示|(|)|之|威猛|。</wordlist>
+		<POSlist>普贤/nr 骑象/n 表示/v (/x )/x 之/u 威猛/a 。/x</POSlist>
+        <questionType>术语|直答</questionType>
+        <Pattern1>「.*nv\(\)」</Pattern1>
+        <Pattern2>「「.*nv\(\)」</Pattern2>
+        <StandardQuestion>2</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>43</id>
+        <questionStem>佛弟子做人的基本道德是()</questionStem>
+        <wordlist>佛弟子|做人|的|基本|道德|是|(|)</wordlist>
+		<POSlist>佛弟子/bpn_x 做人/n 的/uj 基本/n 道德/nr 是/v (/x )/x</POSlist>
+        <questionType>术语|直答</questionType>
+        <Pattern1>「.*(uj).*(nr)v\(\)」</Pattern1>
+        <Pattern2>「.*(uj).*(nr)v\(\)」</Pattern2>
+        <StandardQuestion>2</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>44</id>
+        <questionStem>佛教教义异于其它宗教的特质是()</questionStem>
+        <wordlist>佛教|教义|异|于|其它|宗教|的|特质|是|(|)</wordlist>
+		<POSlist>佛教/bpn_d 教义/n 异/zg 于/p 其它/r 宗教/bpn_d 的/uj 特质/n 是/v (/x )/x</POSlist>
+        <questionType>术语|解释</questionType>
+        <Pattern1>「.*(uj)nv\(\)」</Pattern1>
+        <Pattern2>「.*n(zg)p.*(bpn_d)(uj)nv\(\)」</Pattern2>
+        <StandardQuestion>2</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>45</id>
+        <questionStem>佛法所说的空是指()之义</questionStem>
+        <wordlist>佛法|所说|的|空是|指|(|)|之|义</wordlist>
+		<POSlist>佛法/nz 所说/c 的/uj 空是/n 指/n (/x )/x 之/u 义/ng</POSlist>
+        <questionType>术语|解释</questionType>
+        <Pattern1>「(nz)c(uj).*n\(\).*」</Pattern1>
+        <Pattern2>「(nz)c(uj).*n\(\).*」</Pattern2>
+        <StandardQuestion>2</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>46</id>
+        <questionStem>佛教讲的三毒是指()</questionStem>
+        <wordlist>佛教|讲|的|三毒|是|指|(|)</wordlist>
+		<POSlist>佛教/bpn_d 讲/v 的/uj 三毒/bpn_d 是/v 指/n (/x )/x</POSlist>
+        <questionType>术语|直答|并称</questionType>
+        <Pattern1>「(bpn_d)v(uj)(bpn_d|n)vn\(\)」</Pattern1>
+        <Pattern2>「(bpn_d)v(uj)(bpn_d|n)vn\(\)」</Pattern2>
+        <StandardQuestion>1</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>47</id>
+        <questionStem>佛陀十号之一的两足尊，其含义是指()</questionStem>
+        <wordlist>佛陀十号|之一|的|两足尊|，|其|含义|是|指|(|)</wordlist>
+		<POSlist>佛陀十号/bpn_x 之一/r 的/uj 两足尊/bpn_p ，/x 其/r 含义/n 是/v 指/n (/x )/x</POSlist>
+        <questionType>术语|解释</questionType>
+        <Pattern1>「.*r?nvn\(\)」</Pattern1>
+        <Pattern2>「.*r?nvn\(\)」</Pattern2>
+        <StandardQuestion>1</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>48</id>
+        <questionStem>“一切有为法，如梦幻泡影，如露亦如电，应作如是观。”此段经文出自()</questionStem>
+        <wordlist>“|一切有为|法|，|如|梦幻泡影|，|如露|亦|如|电|，|应|作如是观|。|”|此|段|经文|出自|(|)</wordlist>
+		<POSlist>“/x 一切有为/bpn_x 法/bpn_d ，/x 如/v 梦幻泡影/i ，/x 如露/t 亦/d 如/v 电/n ，/x 应/v 作如是观/i 。/x ”/x 此/zg 段/q 经文/n 出自/v (/x )/x</POSlist>
+        <questionType>经名|直答</questionType>
+        <Pattern1>「“.*”(zg)qnv\(\)」</Pattern1>
+        <Pattern2>「“.*”(zg)qnv\(\)」</Pattern2>
+        <StandardQuestion>1</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>49</id>
+        <questionStem>波罗蜜是指()</questionStem>
+        <wordlist>波罗蜜|是|指|(|)</wordlist>
+		<POSlist>波罗蜜/nr 是/v 指/n (/x )/x</POSlist>
+        <questionType>术语|解释</questionType>
+        <Pattern1>「(nr|n|bpn_d)vn?\(\)」</Pattern1>
+        <Pattern2>「(nr|n|bpn_d)vn?\(\)」</Pattern2>
+        <StandardQuestion>1</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>50</id>
+        <questionStem>三宝是指()</questionStem>
+        <wordlist>三宝|是|指|(|)</wordlist>
+		<POSlist>三宝/bpn_d 是/v 指/n (/x )/x</POSlist>
+        <questionType>术语|直答|并称</questionType>
+        <Pattern1>「(nr|n|bpn_d)vn?\(\)」</Pattern1>
+        <Pattern2>「(nr|n|bpn_d)vn?\(\)」</Pattern2>
+        <StandardQuestion>1</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>51</id>
+        <questionStem>檀那是()</questionStem>
+        <wordlist>檀那|是|(|)</wordlist>
+		<POSlist>檀那/ns 是/v (/x )/x</POSlist>
+        <questionType>术语|直答</questionType>
+        <Pattern1>「(ns|n|bpn_d)vn?\(\)」</Pattern1>
+        <Pattern2>「(ns|n|bpn_d)vn?\(\)」</Pattern2>
+        <StandardQuestion>1</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>52</id>
+        <questionStem>「诸行无常、诸法无我、涅盘寂静」称为()</questionStem>
+        <wordlist>「|诸行无常|、|诸法无我|、|涅盘寂静|」|称为|(|)</wordlist>
+		<POSlist>「/x 诸行无常/bpn_d 、/x 诸法无我/bpn_d 、/x 涅盘寂静/bpn_d 」/x 称为/v (/x )/x</POSlist>
+        <questionType>术语|直答|并称</questionType>
+        <Pattern1>「「.*」v\(\)」</Pattern1>
+        <Pattern2>「「.*」v\(\)」</Pattern2>
+        <StandardQuestion>1</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>53</id>
+        <questionStem>五戒不包括()</questionStem>
+        <wordlist>五戒|不|包括|(|)</wordlist>
+		<POSlist>五戒/n 不/d 包括/v (/x )/x</POSlist>
+        <questionType>术语|列举|并称</questionType>
+        <Pattern1>「(n|nr|ns|bpn_d)dv\(\)」</Pattern1>
+        <Pattern2>「(n|nr|ns|bpn_d)dv\(\)」</Pattern2>
+        <StandardQuestion>2</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>54</id>
+        <questionStem>优婆塞和优婆夷分别是指()</questionStem>
+        <wordlist>优婆塞|和|优婆夷|分别|是|指|(|)</wordlist>
+		<POSlist>优婆塞/bpn_x 和/c 优婆夷/bpn_x 分别/bpn_d 是/v 指/n (/x )/x</POSlist>
+        <questionType>人物|直答</questionType>
+        <Pattern1>「(bpn_x|n|ns|nr)c(bpn_x|n|ns|nr).*vn\(\)」</Pattern1>
+        <Pattern2>「(bpn_x|n|ns|nr)c(bpn_x|n|ns|nr).*vn\(\)」</Pattern2>
+        <StandardQuestion>2</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>55</id>
+        <questionStem>有一尊菩萨手握利剑，骑狮子座上，他是()</questionStem>
+        <wordlist>有|一尊|菩萨|手握|利剑|，|骑|狮子座|上|，|他|是|(|)</wordlist>
+		<POSlist>有/bpn_d 一尊/m 菩萨/n 手握/v 利剑/nr ，/x 骑/v 狮子座/n 上/f ，/x 他/r 是/v (/x )/x</POSlist>
+        <questionType>人物|直答</questionType>
+        <Pattern1>「(bpn_d).*rv\(\)」</Pattern1>
+        <Pattern2>「(bpn_d).*rv\(\)」</Pattern2>
+        <StandardQuestion>2</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>56</id>
+        <questionStem>《心经》中的观自在菩萨又称为()</questionStem>
+        <wordlist>《|心经|》|中|的|观自在|菩萨|又|称为|(|)</wordlist>
+		<POSlist>《/x 心经/n 》/x 中/f 的/uj 观自在/bpn_d 菩萨/n 又/d 称为/v (/x )/x</POSlist>
+        <questionType>人物|直答</questionType>
+        <Pattern1>「《.*》f(uj)(bpn_d)?ndv\(\)」</Pattern1>
+        <Pattern2>「《.*》f(uj)(bpn_d)?ndv\(\)」</Pattern2>
+        <StandardQuestion>1</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>57</id>
+        <questionStem>四恩是指()</questionStem>
+        <wordlist>四恩|是|指|(|)</wordlist>
+		<POSlist>四恩/bpn_d 是/v 指/n (/x )/x</POSlist>
+        <questionType>术语|直答|并称</questionType>
+        <Pattern1>「(bpn_d|n|nr|ns)vn\(\)」</Pattern1>
+        <Pattern2>「(bpn_d|n|nr|ns)vn\(\)」</Pattern2>
+        <StandardQuestion>1</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>58</id>
+        <questionStem>三法印是辨别佛法与外道的方法，三法印是指()</questionStem>
+        <<wordlist>三法印|是|辨别|佛法|与|外道|的|方法|，|三法印|是|指|(|)</wordlist>
+		<POSlist>三法印/bpn_d 是/v 辨别/v 佛法/nz 与/p 外道/n 的/uj 方法/n ，/x 三法印/bpn_d 是/v 指/n (/x )/x</POSlist>
+        <questionType>术语|直答|并称</questionType>
+        <Pattern1>「(bpn_d|n|ns|nr)v.*(uj).*(bpn_d|n|ns|nr)vn\(\)」</Pattern1>
+        <Pattern2>「(bpn_d|n|ns|nr)v.*(uj).*(bpn_d|n|ns|nr)vn\(\)」</Pattern2>
+        <StandardQuestion>1</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>59</id>
+        <questionStem>诸供养中以法供养功德最大，法供养是指()</questionStem>
+        <wordlist>诸|供养|中|以法|供养|功德|最大|，|法|供养|是|指|(|)</wordlist>
+		<POSlist>诸/r 供养/bpn_dl 中/f 以法/v 供养/bpn_dl 功德/bpn_d 最大/a ，/x 法/bpn_d 供养/bpn_dl 是/v 指/n (/x )/x</POSlist>
+        <questionType>术语|解释</questionType>
+        <Pattern1>「.*fv(bpn_dl|n|nr|ns).*(bpn_dl|n|nr|ns)vn\(\)」</Pattern1>
+        <Pattern2>「.*fv(bpn_dl|n|nr|ns).*(bpn_dl|n|nr|ns)vn\(\)」</Pattern2>
+        <StandardQuestion>1</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>60</id>
+        <questionStem>佛教说的四大皆空是指()</questionStem>
+        <wordlist>佛教|说|的|四大皆空|是|指|(|)</wordlist>
+		<POSlist>佛教/bpn_d 说/v 的/uj 四大皆空/i 是/v 指/n (/x )/x</POSlist>
+        <questionType>术语|解释|并称</questionType>
+        <Pattern1>「(bpn_d)v(uj).*vn\(\)」</Pattern1>
+        <Pattern2>「(bpn_d)v(uj).*vn\(\)」</Pattern2>
+        <StandardQuestion>1</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>61</id>
+        <questionStem>现世在此世界成佛的是释迦牟尼佛，那么下一个在此世界成佛的是()</questionStem>
+        <wordlist>现世|在|此|世界|成佛|的|是|释迦牟尼佛|，|那么|下|一个|在|此|世界|成佛|的|是|(|)</wordlist>
+		<POSlist>现世/t 在/p 此/r 世界/bpn_d 成佛/bpn_d 的/uj 是/v 释迦牟尼佛/bpn_p ，/x 那么/r 下/f 一个/m 在/p 此/r 世界/bpn_d 成佛/bpn_d 的/uj 是/v (/x )/x</POSlist>
+        <questionType>人物|直答</questionType>
+        <Pattern1>「」</Pattern1>
+        <Pattern2>「」</Pattern2>
+        <StandardQuestion>2</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>62</id>
+        <questionStem>人生最大的错误是()</questionStem>
+        <wordlist>人生|最大|的|错误|是|(|)</wordlist>
+		<POSlist>人生/n 最大/a 的/uj 错误/n 是/v (/x )/x</POSlist>
+        <questionType>术语|直答</questionType>
+        <Pattern1>「n.*(uj)nv\(\)」</Pattern1>
+        <Pattern2>「n.*(uj)nv\(\)」</Pattern2>
+        <StandardQuestion>2</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>63</id>
+        <questionStem>四圣谛包括()</questionStem>
+        <wordlist>四圣谛|包括|(|)</wordlist>
+		<POSlist>四圣谛/bpn_d 包括/v (/x )/x</POSlist>
+        <questionType>术语|列举|并称</questionType>
+        <Pattern1>「(bpn_d|n|nr|ns)v\(\)」</Pattern1>
+        <Pattern2>「(bpn_d|n|nr|ns)v\(\)」</Pattern2>
+        <StandardQuestion>1</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>64</id>
+        <questionStem>中国禅宗第六祖是()</questionStem>
+        <wordlist>中国|禅宗|第六|祖|是|(|)</wordlist>
+		<POSlist>中国/bpn_g 禅宗/bpn_s 第六/m 祖/nr 是/v (/x )/x</POSlist>
+        <questionType>人物|直答</questionType>
+        <Pattern1>「.*(nr|n|bpn_s).*(nr|n|bpn_s)v\(\)」</Pattern1>
+        <Pattern2>「.*(nr|n|bpn_s).*(nr|n|bpn_s)v\(\)」</Pattern2>
+        <StandardQuestion>1</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>65</id>
+        <questionStem>印度中观学派的创始人是()</questionStem>
+        <wordlist>印度|中观|学派|的|创始人|是|(|)</wordlist>
+		<POSlist>印度/bpn_g 中观/n 学派/n 的/uj 创始人/n 是/v (/x )/x</POSlist>
+        <questionType>人物|直答</questionType>
+        <Pattern1>「.*(n|bpn_s)(uj)nv\(\)」</Pattern1>
+        <Pattern2>「.*(n|bpn_s)(uj)nv\(\)」</Pattern2>
+        <StandardQuestion>1</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>66</id>
+        <questionStem>佛教的教主是()</questionStem>
+        <wordlist>佛教|的|教主|是|(|)</wordlist>
+		<POSlist>佛教/bpn_d 的/uj 教主/n 是/v (/x )/x</POSlist>
+        <questionType>人物|直答</questionType>
+        <Pattern1>「(bpn_d)(uj)(n|bpn_po)v\(\)」</Pattern1>
+        <Pattern2>「(bpn_d)(uj)(n|bpn_po)v\(\)」</Pattern2>
+        <StandardQuestion>1</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>67</id>
+        <questionStem>净土宗的修持不求()</questionStem>
+        <wordlist>净土宗|的|修持|不|求|(|)</wordlist>
+		<POSlist>净土宗/bpn_s 的/uj 修持/v 不/d 求/v (/x )/x</POSlist>
+        <questionType>术语|直答</questionType>
+        <Pattern1>「.*dv\(\)」</Pattern1>
+        <Pattern2>「.*(n|bpn_s)(uj).*dv\(\)」</Pattern2>
+        <StandardQuestion>2</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>68</id>
+        <questionStem>中国佛教于()时传来中国。</questionStem>
+        <wordlist>中国佛教|于|(|)|时|传来|中国|。</wordlist>
+		<POSlist>中国佛教/bpn_x 于/p (/x )/x 时/n 传来/v 中国/bpn_g 。/x</POSlist>
+        <questionType>未确定|直答</questionType>
+        <Pattern1>「(bpn_x|n)p\(\).*v(n|bpn_g)」</Pattern1>
+        <Pattern2>「(bpn_x|n)p\(\).*v(n|bpn_g)」</Pattern2>
+        <StandardQuestion>2</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>69</id>
+        <questionStem>以下何部经典不是谈般若空性</questionStem>
+        <wordlist>以下|何部|经典|不是|谈|般若|空性</wordlist>
+		<POSlist>以下/f 何部/r 经典/n 不是/c 谈/v 般若/bpn_p 空性/n</POSlist>
+        <questionType>经名|列举</questionType>
+        <Pattern1>「.*rncv(bpn_p|n).*」</Pattern1>
+        <Pattern2>「.*rncv(bpn_p|n).*」</Pattern2>
+        <StandardQuestion>2</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>70</id>
+        <questionStem>佛教不以修持()为目的。</questionStem>
+        <wordlist>佛教|不|以|修持|(|)|为|目的|。</wordlist>
+		<POSlist>佛教/bpn_d 不/d 以/p 修持/v (/x )/x 为/p 目的/n 。/x</POSlist>
+        <questionType>术语|直答</questionType>
+        <Pattern1>「(bpn_p|n)dpv\(\)pn」</Pattern1>
+        <Pattern2>「(bpn_p|n)dpv\(\)pn」</Pattern2>
+        <StandardQuestion>2</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>71</id>
+        <questionStem>佛教弟子包括()</questionStem>
+        <wordlist>佛教|弟子|包括|(|)</wordlist>
+		<POSlist>佛教/bpn_d 弟子/n 包括/v (/x )/x</POSlist>
+        <questionType>术语|未确定</questionType>
+        <Pattern1>「(bpn_d)n?v\(\)」</Pattern1>
+        <Pattern2>「(bpn_d)n?v\(\)」</Pattern2>
+        <StandardQuestion>1</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>72</id>
+        <questionStem>念佛的目的是()</questionStem>
+        <wordlist>念佛|的|目的|是|(|)</wordlist>
+		<POSlist>念佛/bpn_i 的/uj 目的/n 是/v (/x )/x</POSlist>
+        <questionType>术语|直答</questionType>
+        <Pattern1>「.*(uj)nv\(\)」</Pattern1>
+        <Pattern2>「.*(uj)nv\(\)」</Pattern2>
+        <StandardQuestion>1</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>73</id>
+        <questionStem>以下何者不是佛教徒应有的行为</questionStem>
+        <wordlist>以下|何者|不是|佛教徒|应有|的|行为</wordlist>
+		<POSlist>以下/f 何者/c 不是/c 佛教徒/n 应有/v 的/uj 行为/v</POSlist>
+        <questionType>术语|列举</questionType>
+        <Pattern1>「.*cc?(n|bpn_p)v(uj).*」</Pattern1>
+        <Pattern2>「.*cc?(n|bpn_p)v(uj).*」</Pattern2>
+        <StandardQuestion>2</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>74</id>
+        <questionStem>五戒指不杀生、不偷盗、不妄语、不饮酒和()</questionStem>
+        <wordlist>五|戒指|不|杀生|、|不|偷盗|、|不|妄语|、|不|饮酒|和|(|)</wordlist>
+		<POSlist>五/m 戒指/n 不/d 杀生/v 、/x 不/d 偷盗/v 、/x 不/d 妄语/v 、/x 不/d 饮酒/n 和/c (/x )/x</POSlist>
+        <questionType>术语|直答|并称</questionType>
+        <Pattern1>「.*(n|bpn_po|bpn_i)v.*c\(\)」</Pattern1>
+        <Pattern2>「.*(n|bpn_po|bpn_i)v.*c\(\)」</Pattern2>
+        <StandardQuestion>2</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>75</id>
+        <questionStem>三论宗的三论系指中论、十二门论和()</questionStem>
+        <wordlist>三论宗|的|三论|系指|中论|、|十二门|论|和|(|)</wordlist>
+		<POSlist>三论宗/bpn_s 的/uj 三论/bpn_b 系指/n 中论/bpn_b 、/x 十二门/m 论/v 和/c (/x )/x</POSlist>
+        <questionType>术语|直答|并称</questionType>
+        <Pattern1>「(n|bpn_s)(uj)(n|bpn_b)(n|v).*c\(\)」</Pattern1>
+        <Pattern2>「(n|bpn_s)(uj)(n|bpn_b)(n|v).*c\(\)」</Pattern2>
+        <StandardQuestion>2</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>76</id>
+        <questionStem>八苦中，指因身的不协调所引起的是()</questionStem>
+        <wordlist>八苦|中|，|指因|身|的|不|协调|所|引起|的|是|(|)</wordlist>
+		<POSlist>八苦/bpn_d 中/f ，/x 指因/n 身/ng 的/uj 不/a 协调/v 所/bpn_d 引起/v 的/uj 是/v (/x )/x</POSlist>
+        <questionType>术语|直答|并称</questionType>
+        <Pattern1>「(bpn_d|n|bpn_s|bpn_b)f.*n.*(uj)v\(\)」</Pattern1>
+        <Pattern2>「(bpn_d|n|bpn_s|bpn_b)f.*n.*(uj)v\(\)」</Pattern2>
+        <StandardQuestion>2</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>77</id>
+        <questionStem>「住胎如处牢狱，出胎如被山夹」，是指八苦中的()</questionStem>
+        <wordlist>「|住胎|如处|牢狱|，|出胎|如|被|山|夹|」|，|是|指|八苦|中|的|(|)</wordlist>
+		<POSlist>「/x 住胎/n 如处/r 牢狱/n ，/x 出胎/bpn_d 如/v 被/p 山/n 夹/v 」/x ，/x 是/v 指/n 八苦/bpn_d 中/f 的/uj (/x )/x</POSlist>
+        <questionType>术语|直答|并称</questionType>
+        <Pattern1>「「.*」.*vn(bpn_d|n|bpn_s|bpn_b)f(uj)\(\)」</Pattern1>
+        <Pattern2>「「.*」.*vn(bpn_d|n|bpn_s|bpn_b)f(uj)\(\)」</Pattern2>
+        <StandardQuestion>1</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>78</id>
+        <questionStem>观十二因缘而悟道者，称为()</questionStem>
+        <wordlist>观|十二因缘|而|悟道|者|，|称为|(|)</wordlist>
+		<POSlist>观/vg 十二因缘/bpn_d 而/c 悟道/v 者/k ，/x 称为/v (/x )/x</POSlist>
+        <questionType>术语|直答</questionType>
+        <Pattern1>「.*v\(\)」</Pattern1>
+        <Pattern2>「.*v\(\)」</Pattern2>
+        <StandardQuestion>1</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>79</id>
+        <questionStem>六度中的禅定波罗蜜是用来对治()</questionStem>
+        <wordlist>六度|中|的|禅定波罗蜜|是|用来|对治|(|)</wordlist>
+		<POSlist>六度/ns 中/f 的/uj 禅定波罗蜜/bpn_x 是/v 用来/v 对治/bpn_d (/x )/x</POSlist>
+        <questionType>术语|直答</questionType>
+        <Pattern1>「(bpn_d|n|ns|bpn_s|bpn_b)f(uj)(bpn_x|n|ns)vv(bpn_d|v)\(\)」</Pattern1>
+        <Pattern2>「(bpn_d|n|ns|bpn_s|bpn_b)f(uj)(bpn_x|n|ns)vv(bpn_d|v)\(\)」</Pattern2>
+        <StandardQuestion>2</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>80</id>
+        <questionStem>苦、乐、不苦不乐是属于()的范围。</questionStem>
+        <wordlist>苦|、|乐|、|不苦不乐|是|属于|(|)|的|范围|。</wordlist>
+		<POSlist>苦/bpn_d 、/x 乐/bpn_d 、/x 不苦不乐/i 是/v 属于/v (/x )/x 的/uj 范围/n 。/x</POSlist>
+        <questionType>术语|直答</questionType>
+        <Pattern1>「.*v?v\(\)(uj)n」</Pattern1>
+        <Pattern2>「.*v?v\(\)(uj)n」</Pattern2>
+        <StandardQuestion>2</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>81</id>
+        <questionStem>佛陀于()入涅盘。</questionStem>
+        <wordlist>佛陀|于|(|)|入|涅盘|。</wordlist>
+		<POSlist>佛陀/nz 于/p (/x )/x 入/v 涅盘/ns 。/x</POSlist>
+        <questionType>术语|直答</questionType>
+        <Pattern1>「(n|bnp_p)p\(\)v(ns|n|bpn_g)」</Pattern1>
+        <Pattern2>「(n|bnp_p)p\(\)v(ns|n|bpn_g)」</Pattern2>
+        <StandardQuestion>2</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>82</id>
+        <questionStem>佛陀初转法-轮之地是()</questionStem>
+        <wordlist>佛陀|初|转法|-|轮|之|地|是|(|)</wordlist>
+		<POSlist>佛陀/nz 初/f 转法/v -/x 轮/q 之/u 地/uv 是/v (/x )/x</POSlist>
+        <questionType>术语|直答</questionType>
+        <Pattern1>「.*u(uv)v\(\)」</Pattern1>
+        <Pattern2>「.*u(uv)v\(\)」</Pattern2>
+        <StandardQuestion>1</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>83</id>
+        <questionStem>佛陀入涅盘前所度的最后一位弟子是()</questionStem>
+        <wordlist>佛陀|入|涅盘|前|所度|的|最后|一位|弟子|是|(|)</wordlist>
+		<POSlist>佛陀/nz 入/v 涅盘/ns 前/f 所度/n 的/uj 最后/f 一位/m 弟子/n 是/v (/x )/x</POSlist>
+        <questionType>术语|直答</questionType>
+        <Pattern1>「(n|bnp_p|nz)v(ns|n|bpn_g)f.*(uj).*(n|bnp_p)v\(\)」</Pattern1>
+        <Pattern2>「(n|bnp_p|nz)v(ns|n|bpn_g)f.*(uj).*(n|bnp_p)v\(\)」</Pattern2>
+        <StandardQuestion>2</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>84</id>
+        <questionStem>佛经有云「人有三事胜过诸天」，即()</questionStem>
+        <wordlist>佛经|有|云|「|人|有|三|事|胜过|诸天|」|，|即|(|)</wordlist>
+		<POSlist>佛经/nz 有/bpn_d 云/n 「/x 人/n 有/bpn_d 三/m 事/n 胜过/v 诸天/m 」/x ，/x 即/v (/x )/x</POSlist>
+        <questionType>术语|直答</questionType>
+        <Pattern1>「(nz|bpn_i|bpn_b|bpn_po)(bpn_d)n「.*」.*v\(\)」</Pattern1>
+        <Pattern2>「(nz|bpn_i|bpn_b|bpn_po)(bpn_d)n「.*」.*v\(\)」</Pattern2>
+        <StandardQuestion>2</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>85</id>
+        <questionStem>净土九品的中品人士，发的是()</questionStem>
+        <wordlist>净土|九品|的|中品|人士|，|发|的|是|(|)</wordlist>
+		<POSlist>净土/bpn_d 九品/n 的/uj 中品/n 人士/n ，/x 发/v 的/uj 是/v (/x )/x</POSlist>
+        <questionType>术语|直答</questionType>
+        <Pattern1>「(bpn_d|bpn_b|bpn_po)?n(uj).*n.*v(uj)v\(\)」</Pattern1>
+        <Pattern2>「(bpn_d|bpn_b|bpn_po)?n(uj).*n.*v(uj)v\(\)」</Pattern2>
+        <StandardQuestion>2</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>86</id>
+        <questionStem>修学佛教五乘共法，仍应以()为第一条件。</questionStem>
+        <wordlist>修学|佛教|五乘|共法|，|仍|应以|(|)|为|第一|条件|。</wordlist>
+		<POSlist>修学/n 佛教/bpn_d 五乘/bpn_d 共法/bpn_d ，/x 仍/d 应以/v (/x )/x 为/p 第一/m 条件/n 。/x</POSlist>
+        <questionType>术语|直答</questionType>
+        <Pattern1>「.*d?v\(\)p.*n」</Pattern1>
+        <Pattern2>「.*d?v\(\)p.*n」</Pattern2>
+        <StandardQuestion>2</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>87</id>
+        <questionStem>学佛应以()为首要。</questionStem>
+        <wordlist>学佛|应|以|(|)|为首|要|。</wordlist>
+		<POSlist>学佛/bpn_x 应/v 以/p (/x )/x 为首/v 要/v 。/x</POSlist>
+        <questionType>术语|直答</questionType>
+        <Pattern1>「(bpn_x|n)vp\(\)v.*」</Pattern1>
+        <Pattern2>「(bpn_x|n)vp\(\)v.*」</Pattern2>
+        <StandardQuestion>2</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>88</id>
+        <questionStem>正见就是()</questionStem>
+        <wordlist>正见|就是|(|)</wordlist>
+		<POSlist>正见/bpn_d 就是/d (/x )/x</POSlist>
+        <questionType>术语|解释</questionType>
+        <Pattern1>「(bpn_d|n)d\(\)」</Pattern1>
+        <Pattern2>「(bpn_d|n)d\(\)」</Pattern2>
+        <StandardQuestion>1</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>89</id>
+        <questionStem>凡由思心所力｜意志力所推动的，都是()</questionStem>
+        <wordlist>凡|由|思|心所|力|｜|意志力|所|推动|的|，|都|是|(|)</wordlist>
+		<POSlist>凡/d 由/p 思/bpn_d 心所/n 力/bpn_d ｜/x 意志力/n 所/bpn_d 推动/v 的/uj ，/x 都/d 是/v (/x )/x</POSlist>
+        <questionType>术语|直答</questionType>
+        <Pattern1>「d.*dv\(\)」</Pattern1>
+        <Pattern2>「d.*dv\(\)」</Pattern2>
+        <StandardQuestion>2</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>90</id>
+        <questionStem>杀父、杀母等五无间业，来生将堕()</questionStem>
+        <wordlist>杀|父|、|杀母|等|五|无间业|，|来生|将|堕|(|)</wordlist>
+		<POSlist>杀/v 父/n 、/x 杀母/n 等/u 五/m 无间业/bpn_d ，/x 来生/v 将/d 堕/v (/x )/x</POSlist>
+        <questionType>术语|直答</questionType>
+        <Pattern1>「.*u.*(bpn_d|bpn_po|bpn_i).*dv\(\)」</Pattern1>
+        <Pattern2>「.*u.*(bpn_d|bpn_po|bpn_i).*dv\(\)」</Pattern2>
+        <StandardQuestion>2</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>91</id>
+        <questionStem>诸业在没有受报以前是()</questionStem>
+        <wordlist>诸业|在|没有|受报|以前|是|(|)</wordlist>
+		<POSlist>诸业/n 在/p 没有/v 受报/v 以前/f 是/v (/x )/x</POSlist>
+        <questionType>术语|直答</questionType>
+        <Pattern1>「.*pv?vfv\(\)」</Pattern1>
+        <Pattern2>「.*pv?vfv\(\)」</Pattern2>
+        <StandardQuestion>2</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>92</id>
+        <questionStem>人死了()</questionStem>
+        <wordlist>人|死|了|(|)</wordlist>
+		<POSlist>人/n 死/bpn_d 了/ul (/x )/x</POSlist>
+        <questionType>未确定|直答</questionType>
+        <Pattern1>「(n|bpn_p)(bpn_d|v).*\(\)」</Pattern1>
+        <Pattern2>「(n|bpn_p)(bpn_d|v).*\(\)」</Pattern2>
+        <StandardQuestion>2</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>93</id>
+        <questionStem>供养父母是属于()</questionStem>
+        <wordlist>供养父母|是|属于|(|)</wordlist>
+		<POSlist>供养父母/l 是/v 属于/v (/x )/x</POSlist>
+        <questionType>术语|直答</questionType>
+        <Pattern1>「.*v?v\(\)」</Pattern1>
+        <Pattern2>「.*v?v\(\)」</Pattern2>
+        <StandardQuestion>2</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>94</id>
+        <questionStem>十善业当中比例占最多的是()，故不可不慎。</questionStem>
+        <wordlist>十|善业|当中|比例|占|最多|的|是|(|)|，|故|不可|不慎|。</wordlist>
+		<POSlist>十/m 善业/bpn_d 当中/s 比例/n 占/v 最多/a 的/uj 是/v (/x )/x ，/x 故/n 不可/v 不慎/a 。/x</POSlist>
+        <questionType>术语|直答</questionType>
+        <Pattern1>「.*snva(uj)v\(\)」</Pattern1>
+        <Pattern2>「.*snva(uj)v\(\)」</Pattern2>
+        <StandardQuestion>2</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>95</id>
+        <questionStem>修定主要依于()</questionStem>
+        <wordlist>修定|主要|依于|(|)</wordlist>
+		<POSlist>修定/v 主要/b 依于/p (/x )/x</POSlist>
+        <questionType>术语|直答</questionType>
+        <Pattern1>「.*bp\(\)」</Pattern1>
+        <Pattern2>「.*bp\(\)」</Pattern2>
+        <StandardQuestion>2</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>96</id>
+        <questionStem>善财童子五十三参出自()</questionStem>
+        <wordlist>善财童子|五十三参|出自|(|)</wordlist>
+		<POSlist>善财童子/bpn_p 五十三参/bpn_d 出自/v (/x )/x</POSlist>
+        <questionType>经名|直答</questionType>
+        <Pattern1>「.*(bpn_d|bpn_po|bpn_i)v\(\)」</Pattern1>
+        <Pattern2>「.*(bpn_d|bpn_po|bpn_i)v\(\)」</Pattern2>
+        <StandardQuestion>1</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>97</id>
+        <questionStem>()经是佛无问自说</questionStem>
+        <wordlist>(|)|经是|佛|无问自说</wordlist>
+		<POSlist>(/x )/x 经是/n 佛/n 无问自说/bpn_x</POSlist>
+		<questionType>经名|直答</questionType>
+        <Pattern1>「\(\)n?v?.*」</Pattern1>
+        <Pattern2>「\(\)n?v?.*」</Pattern2>
+        <StandardQuestion>2</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>98</id>
+        <questionStem>三昧水忏的因缘起于()</questionStem>
+        <wordlist>三昧|水忏|的|因缘|起于|(|)</wordlist>
+		<POSlist>三昧/n 水忏/bpn_b 的/uj 因缘/bpn_d 起于/v (/x )/x</POSlist>
+		<questionType>人物|直答</questionType>
+        <Pattern1>「.*(bpn_b|bpn_po|bpn_i)(uj)(nbpn_d|n)v\(\)」</Pattern1>
+        <Pattern2>「.*(bpn_b|bpn_po|bpn_i)(uj)(nbpn_d|n)v\(\)」</Pattern2>
+        <StandardQuestion>1</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>99</id>
+        <questionStem>人天三福行是()</questionStem>
+        <wordlist>人天|三|福行|是|(|)</wordlist>
+		<POSlist>人天/bpn_x 三/m 福行/bpn_d 是/v (/x )/x</POSlist>
+		<questionType>术语|直答|并称</questionType>
+        <Pattern1>「.*v\(\)」</Pattern1>
+        <Pattern2>「(bpn_x).*(bpn_d)v\(\)」</Pattern2>
+        <StandardQuestion>1</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>100</id>
+        <questionStem>完全断尽贪瞋痴不再轮回生死的圣者，是指()</questionStem>
+        <wordlist>完全|断|尽|贪|瞋|痴|不再|轮回|生死|的|圣者|，|是|指|(|)</wordlist>
+		<POSlist>完全/ad 断/v 尽/v 贪/bpn_d 瞋/bpn_d 痴/bpn_d 不再/d 轮回/bpn_d 生死/bpn_d 的/uj 圣者/n ，/x 是/v 指/n (/x )/x</POSlist>
+		<questionType>人物|直答</questionType>
+        <Pattern1>「.*vn\(\)」</Pattern1>
+        <Pattern2>「.*vn\(\)」</Pattern2>
+        <StandardQuestion>1</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>101</id>
+        <questionStem>民国初年，提倡人生佛教的是()</questionStem>
+        <wordlist>民国初年|，|提倡|人生|佛教|的|是|(|)</wordlist>
+		<POSlist>民国初年/nz ，/x 提倡/v 人生/n 佛教/bpn_d 的/uj 是/v (/x )/x</POSlist>
+		<questionType>人物|直答</questionType>
+        <Pattern1>「nz.*v.*(uj)v\(\)」</Pattern1>
+        <Pattern2>「nz.*v.*(uj)v\(\)」</Pattern2>
+        <StandardQuestion>2</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>102</id>
+        <questionStem>被中国佛教尊为「八宗之祖」的是()</questionStem>
+        <wordlist>被|中国佛教|尊|为|「|八|宗之祖|」|的|是|(|)</wordlist>
+		<POSlist>被/p 中国佛教/bpn_x 尊/q 为/p 「/x 八/m 宗之祖/nr 」/x 的/uj 是/v (/x )/x</POSlist>
+		<questionType>人物|直答</questionType>
+        <Pattern1>「p(bpn_x|bpn_p)qp.*(uj)v\(\)」</Pattern1>
+        <Pattern2>「p(bpn_x|bpn_p)qp.*(uj)v\(\)」</Pattern2>
+        <StandardQuestion>1</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>103</id>
+        <questionStem>以诵《阿弥陀经》为主的忏仪是()</questionStem>
+        <wordlist>以|诵|《|阿弥陀经|》|为主|的|忏仪|是|(|)</wordlist>
+		<POSlist>以/p 诵/vg 《/x 阿弥陀经/bpn_b 》/x 为主/v 的/uj 忏仪/bpn_dl 是/v (/x )/x</POSlist>
+		<questionType>术语|直答</questionType>
+        <Pattern1>「p(v|vg).*(uj)(bpn_dl|bpn_b|bpn_po)v/(/)」</Pattern1>
+        <Pattern2>「p(v|vg).*(uj)(bpn_dl|bpn_b|bpn_po)v/(/)」</Pattern2>
+        <StandardQuestion>2</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>104</id>
+        <questionStem>智者大师是()的祖师。</questionStem>
+        <wordlist>智者|大师|是|(|)|的|祖师|。</wordlist>
+		<POSlist>智者/n 大师/bpn_d 是/v (/x )/x 的/uj 祖师/n 。/x</POSlist>
+		<questionType>未确定|直答</questionType>
+        <Pattern1>「.*(bpn_d)v\(\)(uj)(n|bpn_p)」</Pattern1>
+        <Pattern2>「.*(bpn_d)v\(\)(uj)(n|bpn_p)」</Pattern2>
+        <StandardQuestion>1</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>105</id>
+        <questionStem>在家学佛的男众称为()</questionStem>
+        <wordlist>在家|学佛|的|男众|称为|(|)</wordlist>
+		<POSlist>在家/r 学佛/bpn_x 的/uj 男众/n 称为/v (/x )/x</POSlist>
+		<questionType>术语|直答</questionType>
+        <Pattern1>「.*(uj)nv\(\)」</Pattern1>
+        <Pattern2>「.*(uj)nv\(\)」</Pattern2>
+        <StandardQuestion>2</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>106</id>
+        <questionStem>佛是()</questionStem>
+        <wordlist>佛|是|(|)</wordlist>
+		<POSlist>佛/n 是/v (/x )/x</POSlist>
+		<questionType>术语|解释</questionType>
+        <Pattern1>「\(\)」</Pattern1>
+        <Pattern2>「\(\)」</Pattern2>
+        <StandardQuestion>1</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>107</id>
+        <questionStem>二乘人是指()</questionStem>
+        <wordlist>二乘|人|是|指|(|)</wordlist>
+		<POSlist>二乘/bpn_d 人/n 是/v 指/n (/x )/x</POSlist>
+		<questionType>术语|直答|并称</questionType>
+        <Pattern1>「.*(n|bpn_p)vn\(\)」</Pattern1>
+        <Pattern2>「.*(n|bpn_p)vn\(\)」</Pattern2>
+        <StandardQuestion>1</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>108</id>
+        <questionStem>三界是()</questionStem>
+        <wordlist>三界|是|(|)</wordlist>
+		<POSlist>三界/bpn_d 是/v (/x )/x</POSlist>
+		<questionType>术语|直答|并称</questionType>
+        <Pattern1>「(bpn_d|bpn_t|bpn_ds)v\(\)」</Pattern1>
+        <Pattern2>「(bpn_d|bpn_t|bpn_ds)v\(\)」</Pattern2>
+        <StandardQuestion>1</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>109</id>
+        <questionStem>四生是指胎生、卵生、湿生和()</questionStem>
+        <wordlist>四生|是|指|胎生|、|卵生|、|湿生|和|(|)</wordlist>
+		<POSlist>四生/bpn_d 是/v 指/n 胎生/n 、/x 卵生/n 、/x 湿生/bpn_d 和/c (/x )/x</POSlist>
+		<questionType>术语|直答|并称</questionType>
+        <Pattern1>「(bpn_d|bpn_t|bpn_ds)vn.*c\(\)」</Pattern1>
+        <Pattern2>「(bpn_d|bpn_t|bpn_ds)vn.*c\(\)」</Pattern2>
+        <StandardQuestion>1</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>110</id>
+        <questionStem>三毒之一的「贪病」，要以()之法来对治。</questionStem>
+        <wordlist>三毒|之一|的|「|贪病|」|，|要|以|(|)|之法|来|对治|。</wordlist>
+		<POSlist>三毒/bpn_d 之一/r 的/uj 「/x 贪病/n 」/x ，/x 要/v 以/p (/x )/x 之法/r 来/v 对治/bpn_d 。/x</POSlist>
+		<questionType>术语|直答</questionType>
+        <Pattern1>「(bpn_d|bpn_t|bpn_ds)r(uj).*v.*」</Pattern1>
+        <Pattern2>「(bpn_d|bpn_t|bpn_ds)r(uj).*v.*」</Pattern2>
+        <StandardQuestion>2</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>111</id>
+        <questionStem>菩萨所修的四摄法是指()</questionStem>
+        <wordlist>菩萨|所修|的|四摄法|是|指|(|)</wordlist>
+		<POSlist>菩萨/n 所修/v 的/uj 四摄法/bpn_d 是/v 指/n (/x )/x</POSlist>
+		<questionType>术语|直答|并称</questionType>
+        <Pattern1>「.*(uj)(bpn_d|bpn_po|n)vn\(\)」</Pattern1>
+        <Pattern2>「.*(uj)(bpn_d|bpn_po|n)vn\(\)」</Pattern2>
+        <StandardQuestion>1</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>112</id>
+        <questionStem>「仰止唯佛陀，完成在人格，人成即佛成，是名真现实。」这句话是()所说</questionStem>
+        <wordlist>「|仰止|唯|佛陀|，|完成|在|人格|，|人|成|即佛|成|，|是|名|真|现实|。|」|这|句|话|是|(|)|所说</wordlist>
+		<POSlist>「/x 仰止/v 唯/b 佛陀/nz ，/x 完成/v 在/p 人格/n ，/x 人/n 成/v 即佛/d 成/v ，/x 是/v 名/q 真/d 现实/n 。/x 」/x 这/r 句/bpn_d 话/n 是/v (/x )/x 所说/c</POSlist>
+		<questionType>人物|直答</questionType>
+        <Pattern1>「「.*」r(bpn_d)nv\(\).*」</Pattern1>
+        <Pattern2>「「.*」r(bpn_d)nv\(\).*」</Pattern2>
+        <StandardQuestion>2</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>113</id>
+        <questionStem>下列何者是佛教信仰的仪式</questionStem>
+        <wordlist>下列|何者|是|佛教|信仰|的|仪式</wordlist>
+		<POSlist>下列/v 何者/c 是/v 佛教/bpn_d 信仰/n 的/uj 仪式/n</POSlist>
+		<questionType>术语|列举</questionType>
+        <Pattern1>「.*cv(bpn_d)(n|v)(uj)n」</Pattern1>
+        <Pattern2>「.*cv(bpn_d)(n|v)(uj)n」</Pattern2>
+        <StandardQuestion>1</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>114</id>
+        <questionStem>人间佛教的意义是()</questionStem>
+        <wordlist>人间|佛教|的|意义|是|(|)</wordlist>
+		<POSlist>人间/bpn_d 佛教/bpn_d 的/uj 意义/n 是/v (/x )/x</POSlist>
+		<questionType>术语|解释</questionType>
+        <Pattern1>「.*(bpn_d)(uj)nv\(\)」</Pattern1>
+        <Pattern2>「.*(bpn_d)(uj)nv\(\)」</Pattern2>
+        <StandardQuestion>1</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>115</id>
+        <questionStem>佛教教旗，是根据佛陀成道时圣体所放出的色光制成的，此色光有()色</questionStem>
+        <wordlist>佛教|教旗|，|是|根据|佛陀|成道|时|圣体|所|放出|的|色光|制成|的|，|此|色光|有|(|)|色</wordlist>
+		<POSlist>佛教/bpn_d 教旗/n ，/x 是/v 根据/p 佛陀/nz 成道/bpn_d 时/n 圣体/n 所/bpn_d 放出/v 的/uj 色光/n 制成/v 的/uj ，/x 此/zg 色光/n 有/bpn_d (/x )/x 色/bpn_d</POSlist>
+		<questionType>术语|直答</questionType>
+        <Pattern1>「(bpn_d)?n.*vp.*(zg)n(bpn_d)?\(\).*」</Pattern1>
+        <Pattern2>「(bpn_d)?n.*vp.*(zg)n(bpn_d)?\(\).*」</Pattern2>
+        <StandardQuestion>2</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>116</id>
+        <questionStem>六道指()六种世界</questionStem>
+        <wordlist>六道|指|(|)|六种|世界</wordlist>
+		<POSlist>六道/bpn_d 指/n (/x )/x 六种/m 世界/bpn_d</POSlist>
+		<questionType>术语|直答|并称</questionType>
+        <Pattern1>「(bpn_d|bpn_t|bpn_ds)n\(\).*」</Pattern1>
+        <Pattern2>「(bpn_d|bpn_t|bpn_ds)n\(\).*」</Pattern2>
+        <StandardQuestion>2</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>117</id>
+        <questionStem>人在睡觉中，有时前六识不起作用，但不是死亡，因为有第()识执持根身。</questionStem>
+        <wordlist>人|在|睡觉|中|，|有时|前|六识|不起作用|，|但|不是|死亡|，|因为|有|第|(|)|识|执持|根身|。</wordlist>
+		<POSlist>人/n 在/p 睡觉/v 中/f ，/x 有时/r 前/f 六识/bpn_d 不起作用/l ，/x 但/c 不是/c 死亡/v ，/x 因为/c 有/bpn_d 第/m (/x )/x 识/bpn_d 执持/v 根身/bpn_d 。/x</POSlist>		
+		<questionType>术语|直答</questionType>
+        <Pattern1>「(n|bpn_p)pv.*c(bpn_d)?.*」</Pattern1>
+        <Pattern2>「(n|bpn_p)pv.*c(bpn_d)?.*」</Pattern2>
+        <StandardQuestion>2</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>118</id>
+        <questionStem>三藏十二部经指的是()</questionStem>
+        <wordlist>三藏十二部|经指|的|是|(|)</wordlist>
+		<POSlist>三藏十二部/bpn_x 经指/n 的/uj 是/v (/x )/x</POSlist>	
+		<questionType>术语|解释</questionType>
+        <Pattern1>「(bpn_x|bpn_i|bpn_po|bpn_b)n(uj)v\(\)」</Pattern1>
+        <Pattern2>「(bpn_x|bpn_i|bpn_po|bpn_b)n(uj)v\(\)」</Pattern2>
+        <StandardQuestion>1</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>119</id>
+        <questionStem>守戒是()</questionStem>
+        <wordlist>守戒|是|(|)</wordlist>
+		<POSlist>守戒/n 是/v (/x )/x</POSlist>	
+		<questionType>术语|解释</questionType>
+        <Pattern1>「nv\(\)」</Pattern1>
+        <Pattern2>「nv\(\)」</Pattern2>
+        <StandardQuestion>1</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>120</id>
+        <questionStem>三恶趣，悉由烦恼的()所召感的业报。</questionStem>
+        <wordlist>三|恶趣|，|悉由|烦恼|的|(|)|所|召感|的|业报|。</wordlist>
+		<POSlist>三/m 恶趣/bpn_d ，/x 悉由/d 烦恼/bpn_d 的/uj (/x )/x 所/bpn_d 召感/v 的/uj 业报/bpn_d 。/x</POSlist>
+		<questionType>术语|直答</questionType>
+        <Pattern1>「.*(bpn_d).*d(bpn_d)(uj)\(\)(bpn_d)v(uj)(bpn_d)」</Pattern1>
+        <Pattern2>「.*(bpn_d).*d(bpn_d)(uj)\(\)(bpn_d)v(uj)(bpn_d)」</Pattern2>
+        <StandardQuestion>2</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>121</id>
+        <questionStem>近代佛教太虚大师提倡人生佛教，现代佛教星云大师倡导()的佛教。</questionStem>
+        <wordlist>近代|佛教|太虚|大师|提倡|人生|佛教|，|现代|佛教|星云|大师|倡导|(|)|的|佛教|。</wordlist>
+		<POSlist>近代/t 佛教/bpn_d 太虚/nrt 大师/bpn_d 提倡/v 人生/n 佛教/bpn_d ，/x 现代/t 佛教/bpn_d 星云/n 大师/bpn_d 倡导/v (/x )/x 的/uj 佛教/bpn_d 。/x</POSlist>
+		<questionType>术语|直答</questionType>
+        <Pattern1>「.*(bpn_d|n|bpn_p)v.*(bpn_d|n|bpn_p)v/(/).*」</Pattern1>
+        <Pattern2>「.*(bpn_d|n|bpn_p)v.*(bpn_d|n|bpn_p)v/(/).*」</Pattern2>
+        <StandardQuestion>2</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>122</id>
+      	<questionStem>「一称南无佛，皆共成佛道」这句话的出处是源自()</questionStem>
+        <wordlist>「|一|称|南无佛|，|皆|共|成佛|道|」|这|句|话|的|出处|是|源自|(|)</wordlist>
+		<POSlist>「/x 一/m 称/v 南无佛/bpn_x ，/x 皆/d 共/d 成佛/bpn_d 道/bpn_d 」/x 这/r 句/bpn_d 话/n 的/uj 出处/v 是/v 源自/v (/x )/x</POSlist>
+		<questionType>经名|直答</questionType>
+        <Pattern1>「「.*」r(bpn_d)n(uj)(n|v)v?v\(\)」</Pattern1>
+        <Pattern2>「「.*」r(bpn_d)n(uj)(n|v)v?v\(\)」</Pattern2>
+        <StandardQuestion>1</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>123</id>
+      	<questionStem>四正勤是已生恶令永断、未生恶令不生、已生善令增长和()</questionStem>
+        <wordlist>四正勤|是|已生|恶令|永断|、|未生|恶令|不生|、|已|生善|令|增长|和|(|)</wordlist>
+		<POSlist>四正勤/bpn_d 是/v 已生/v 恶令/n 永断/d 、/x 未生/v 恶令/n 不生/bpn_d 、/x 已/d 生善/v 令/v 增长/v 和/c (/x )/x</POSlist>
+		<questionType>术语|列举</questionType>
+        <Pattern1>「(bpn_d|n|bpn_po)v.*c\(\)」</Pattern1>
+        <Pattern2>「(bpn_d|n|bpn_po)v.*c\(\)」</Pattern2>
+        <StandardQuestion>1</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>124</id>
+      	<questionStem>释迦牟尼佛比弥勒菩萨早九劫成佛，原因在于()</questionStem>
+        <wordlist>释迦牟尼佛|比|弥勒|菩萨|早九|劫|成佛|，|原因|在于|(|)</wordlist>
+		<POSlist>释迦牟尼佛/bpn_p 比/p 弥勒/nz 菩萨/n 早九/t 劫/bpn_d 成佛/bpn_d ，/x 原因/n 在于/v (/x )/x</POSlist>
+		<questionType>术语|解释</questionType>
+        <Pattern1>「.*nv\(\)」</Pattern1>
+        <Pattern2>「.*nv\(\)」</Pattern2>
+        <StandardQuestion>2</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>125</id>
+      	<questionStem>菩萨所修的六度法门，善心布施可以度化()的人。</questionStem>
+        <wordlist>菩萨|所修|的|六度|法门|，|善心|布施|可以|度化|(|)|的|人|。</wordlist>
+		<POSlist>菩萨/n 所修/v 的/uj 六度/ns 法门/bpn_d ，/x 善心/n 布施/bpn_d 可以/c 度化/v (/x )/x 的/uj 人/n 。/x</POSlist>
+		<questionType>术语|直答</questionType>
+        <Pattern1>「」</Pattern1>
+        <Pattern2>「」</Pattern2>
+        <StandardQuestion>2</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>126</id>
+      	<questionStem>人死之后，有三种力量会决定他的上升或下堕，它们是()</questionStem>
+        <wordlist>人|死|之后|，|有|三种|力量|会|决定|他|的|上升|或|下堕|，|它们|是|(|)</wordlist>
+		<POSlist>人/n 死/bpn_d 之后/f ，/x 有/bpn_d 三种/m 力量/n 会/v 决定/v 他/r 的/uj 上升/v 或/c 下堕/i ，/x 它们/r 是/v (/x )/x</POSlist>
+		<questionType>术语|列举</questionType>
+        <Pattern1>「」</Pattern1>
+        <Pattern2>「」</Pattern2>
+        <StandardQuestion>2</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>127</id>
+      	<questionStem>阿耨多罗三藐三菩提是梵语，意译为()</questionStem>
+        <wordlist>阿耨多罗三藐三菩提|是|梵语|，|意译|为|(|)</wordlist>
+		<POSlist>阿耨多罗三藐三菩提/bpn_d 是/v 梵语/bpn_a ，/x 意译/n 为/p (/x )/x</POSlist>
+		<questionType>术语|解释</questionType>
+        <Pattern1>「.*np\(\)」</Pattern1>
+        <Pattern2>「(bpn_d)v(bpn_a).*np\(\)」</Pattern2>
+        <StandardQuestion>1</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>128</id>
+      	<questionStem>依维摩诘经所示「居士」的意思是指()</questionStem>
+        <wordlist>依|维摩诘|经|所示|「|居士|」|的|意思|是|指|(|)</wordlist>
+		<POSlist>依/d 维摩诘/bpn_p 经/n 所示/v 「/x 居士/bpn_p 」/x 的/uj 意思/n 是/v 指/n (/x )/x</POSlist>
+		<questionType>术语|解释</questionType>
+        <Pattern1>「d(bpn_p|bpn_b)nv「.*」(uj)nvn?\(\)」</Pattern1>
+        <Pattern2>「d(bpn_p|bpn_b)nv「.*」(uj)nvn?\(\)」</Pattern2>
+        <StandardQuestion>2</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>129</id>
+      	<questionStem>亲属过世或欲超渡，应多为亡者()</questionStem>
+        <wordlist>亲属|过世|或|欲|超渡|，|应|多|为|亡者|(|)</wordlist>
+		<POSlist>亲属/n 过世/t 或/c 欲/bpn_d 超渡/v ，/x 应/v 多/m 为/p 亡者/n (/x )/x</POSlist>
+		<questionType>术语|直答</questionType>
+        <Pattern1>「.*v.*vm?pn\(\)」</Pattern1>
+        <Pattern2>「.*v.*vm?pn\(\)」</Pattern2>
+        <StandardQuestion>2</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>130</id>
+      	<questionStem>佛教传到中国后，由()，根据印度与西域的梵音，配合中国的因调，首先作成了渔山梵呗</questionStem>
+        <wordlist>佛教|传到|中国|后|，|由|(|)|，|根据|印度|与|西域|的|梵音|，|配合|中国|的|因调|，|首先|作成|了|渔山|梵呗</wordlist>
+		<POSlist>佛教/bpn_d 传到/v 中国/bpn_g 后/f ，/x 由/p (/x )/x ，/x 根据/p 印度/bpn_g 与/p 西域/bpn_g 的/uj 梵音/nz ，/x 配合/v 中国/bpn_g 的/uj 因调/n ，/x 首先/d 作成/v 了/ul 渔山/n 梵呗/bpn_a</POSlist>
+		<questionType>人物|直答</questionType>
+        <Pattern1>「」</Pattern1>
+        <Pattern2>「」</Pattern2>
+        <StandardQuestion>2</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>131</id>
+      	<questionStem>人天果报以()为主。</questionStem>
+        <wordlist>人天|果报|以|(|)|为主|。</wordlist>
+		<POSlist>人天/bpn_x 果报/bpn_d 以/p (/x )/x 为主/v 。/x</POSlist>
+		<questionType>术语|直答</questionType>
+        <Pattern1>「.*p\(\)v」</Pattern1>
+        <Pattern2>「.*p\(\)v」</Pattern2>
+        <StandardQuestion>2</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>132</id>
+      	<questionStem>不绮语是指()</questionStem>
+        <wordlist>不|绮语|是|指|(|)</wordlist>
+		<POSlist>不/d 绮语/nr 是/v 指/n (/x )/x</POSlist>
+		<questionType>术语|解释</questionType>
+        <Pattern1>「.*vn\(\)」</Pattern1>
+        <Pattern2>「.*vn\(\)」</Pattern2>
+        <StandardQuestion>1</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>133</id>
+      	<questionStem>持戒的根本精神是基于()</questionStem>
+        <wordlist>持戒|的|根本|精神|是|基于|(|)</wordlist>
+		<POSlist>持戒/v 的/uj 根本/a 精神/n 是/v 基于/p (/x )/x</POSlist>
+		<questionType>术语|解释</questionType>
+        <Pattern1>「v(uj).*nvp\(\)」</Pattern1>
+        <Pattern2>「v(uj).*nvp\(\)」</Pattern2>
+        <StandardQuestion>2</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>134</id>
+      	<questionStem>佛和菩萨都具有高尚道德、人格圆满。因此我们礼拜诸佛菩萨是()</questionStem>
+        <wordlist>佛和|菩萨|都|具有|高尚|道德|、|人格|圆满|。|因此|我们|礼拜|诸佛|菩萨|是|(|)</wordlist>
+		<POSlist>佛和/nz 菩萨/n 都/d 具有/v 高尚/n 道德/nr 、/x 人格/n 圆满/a 。/x 因此/c 我们/r 礼拜/bpn_dl 诸佛/bpn_x 菩萨/n 是/v (/x )/x</POSlist>
+		<questionType>未确定|解释</questionType>
+        <Pattern1>「.*nd?v.*c.*v\(\)」</Pattern1>
+        <Pattern2>「.*nd?v.*c.*v\(\)」</Pattern2>
+        <StandardQuestion>2</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>135</id>
+      	<questionStem>可以用来验证是否何乎佛法旨者的是()</questionStem>
+        <wordlist>可以|用来|验证|是否|何乎|佛法|旨者|的|是|(|)</wordlist>
+		<POSlist>可以/c 用来/v 验证/v 是否/v 何乎/d 佛法/nz 旨者/n 的/uj 是/v (/x )/x</POSlist>
+		<questionType>术语|直答</questionType>
+        <Pattern1>「cv?v.*(uj)v\(\)」</Pattern1>
+        <Pattern2>「cv?v.*(uj)v\(\)」</Pattern2>
+        <StandardQuestion>2</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>136</id>
+      	<questionStem>中国佛教史上唐代著名的高僧，曾于七世纪到印度取经的是()大师。</questionStem>
+        <wordlist>中国|佛教史|上|唐代|著名|的|高僧|，|曾|于|七|世纪|到|印度|取经|的|是|(|)|大师|。</wordlist>
+		<POSlist>中国/bpn_g 佛教史/n 上/f 唐代/t 著名/a 的/uj 高僧/nr ，/x 曾/d 于/p 七/m 世纪/n 到/v 印度/bpn_g 取经/v 的/uj 是/v (/x )/x 大师/bpn_d 。/x</POSlist>
+		<questionType>人物|直答</questionType>
+        <Pattern1>「」</Pattern1>
+        <Pattern2>「」</Pattern2>
+        <StandardQuestion>2</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>137</id>
+      	<questionStem>苏东坡因佛印禅师一句话，而输掉御赐的玉带，此句话是()</questionStem>
+        <wordlist>苏东坡|因|佛印|禅师|一句|话|，|而|输掉|御赐|的|玉带|，|此句话是|(|)</wordlist>
+		<POSlist>苏东坡/ns 因/p 佛印/bpn_p 禅师/n 一句/m 话/n ，/x 而/c 输掉/v 御赐/n 的/uj 玉带/n ，/x 此句话是/c (/x )/x</POSlist>
+		<questionType>未确定|直答</questionType>
+        <Pattern1>「.*c\(\)」</Pattern1>
+        <Pattern2>「.*c\(\)」</Pattern2>
+        <StandardQuestion>2</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>138</id>
+      	<questionStem>四无量心中，喜无量心是随喜他人的喜乐；舍无量心是()</questionStem>
+        <wordlist>四无量心|中|，|喜|无量|心|是|随喜|他人|的|喜乐|；|舍无量心|是|(|)</wordlist>
+		<POSlist>四无量心/bpn_d 中/f ，/x 喜/v 无量/n 心/bpn_d 是/v 随喜/bpn_d 他人/r 的/uj 喜乐/ns ；/x 舍无量心/bpn_d 是/v (/x )/x</POSlist>
+		<questionType>术语|解释</questionType>
+        <Pattern1>「(n|bpn_d)f.*(n|bpn_d)v\(\)」</Pattern1>
+        <Pattern2>「(n|bpn_d)f.*(n|bpn_d)v\(\)」</Pattern2>
+        <StandardQuestion>2</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>139</id>
+      	<questionStem>何谓随喜功德</questionStem>
+        <wordlist>何谓|随喜功德</wordlist>
+		<POSlist>何谓/nr 随喜功德/bpn_d</POSlist>
+		<questionType>术语|解释</questionType>
+        <Pattern1>「(nr)(bpn_d|n)」</Pattern1>
+        <Pattern2>「(nr)(bpn_d|n)」</Pattern2>
+        <StandardQuestion>1</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>140</id>
+      	<questionStem>十善业又分身、口、意三类，意善业有三，是指()</questionStem>
+        <wordlist>十|善业|又|分身|、|口|、|意|三类|，|意|善业|有|三|，|是|指|(|)</wordlist>
+		<POSlist>十/m 善业/bpn_d 又/d 分身/bpn_d 、/x 口/q 、/x 意/bpn_d 三类/m ，/x 意/bpn_d 善业/bpn_d 有/bpn_d 三/m ，/x 是/v 指/n (/x )/x</POSlist>
+		<questionType>术语|直答|并称</questionType>
+        <Pattern1>「」</Pattern1>
+        <Pattern2>「」</Pattern2>
+        <StandardQuestion>1</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>141</id>
+      	<questionStem>俗话说：「家家弥陀，户户()。」可见佛教在中国社会影响至深且广()菩萨。</questionStem>
+        <wordlist>俗话说|：|「|家家|弥陀|，|户户|(|)|。|」|可见|佛教|在|中国|社会|影响|至|深|且|广|(|)|菩萨|。</wordlist>
+		<POSlist>俗话说/l ：/x 「/x 家家/n 弥陀/nz ，/x 户户/n (/x )/x 。/x 」/x 可见/v 佛教/bpn_d 在/p 中国/bpn_g 社会/n 影响/vn 至/p 深/a 且/c 广/ns (/x )/x 菩萨/n 。/x</POSlist>
+		<questionType>人物|直答</questionType>
+        <Pattern1>「」</Pattern1>
+        <Pattern2>「」</Pattern2>
+        <StandardQuestion>2</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>142</id>
+      	<questionStem>人死后，是依()决定往生趣向。</questionStem>
+        <wordlist>人|死后|，|是|依|(|)|决定|往|生趣|向|。</wordlist>
+		<POSlist>人/n 死后/bpn_x ，/x 是/v 依/d (/x )/x 决定/v 往/zg 生趣/n 向/p 。/x</POSlist>
+		<questionType>术语|直答</questionType>
+        <Pattern1>「」</Pattern1>
+        <Pattern2>「」</Pattern2>
+        <StandardQuestion>2</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>143</id>
+      	<questionStem>佛历元年是由()时候算起</questionStem>
+        <wordlist>佛历|元年|是|由|(|)|时候|算|起</wordlist>
+		<POSlist>佛历/nz 元年/t 是/v 由/p (/x )/x 时候/n 算/v 起/v</POSlist>
+		<questionType>术语|直答</questionType>
+        <Pattern1>「」</Pattern1>
+        <Pattern2>「」</Pattern2>
+        <StandardQuestion>2</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>144</id>
+      	<questionStem>目前中国佛教出家众受菩萨戒后，头顶上燃戒疤是()</questionStem>
+        <wordlist>目前|中国佛教|出家|众|受菩萨戒|后|，|头顶|上燃|戒疤|是|(|)</wordlist>
+		<POSlist>目前/t 中国佛教/bpn_x 出家/bpn_dl 众/ng 受菩萨戒/bpn_x 后/f ，/x 头顶/n 上燃/b 戒疤/bpn_i 是/v (/x )/x</POSlist>
+		<questionType>未确定|解释</questionType>
+        <Pattern1>「」</Pattern1>
+        <Pattern2>「」</Pattern2>
+        <StandardQuestion>2</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>145</id>
+      	<questionStem>念佛法门是()的修行法门</questionStem>
+        <wordlist>念佛法门|是|(|)|的|修行|法门</wordlist>
+		<POSlist>念佛法门/bpn_x 是/v (/x )/x 的/uj 修行/bpn_i 法门/bpn_d</POSlist>
+		<questionType>术语|直答</questionType>
+        <Pattern1>「(bpn_x)v\(\)(uj).*(bpn_d)」</Pattern1>
+        <Pattern2>「(bpn_x)v\(\)(uj).*(bpn_d)」</Pattern2>
+        <StandardQuestion>2</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>146</id>
+      	<questionStem>佛门中，为什么常有拜忏的法会</questionStem>
+        <wordlist>佛门|中|，|为什么|常有|拜忏|的|法会</wordlist>
+		<POSlist>佛门/ns 中/f ，/x 为什么/r 常有/b 拜忏/v 的/uj 法会/bpn_dl</POSlist>
+		<questionType>未确定|解释</questionType>
+        <Pattern1>「(ns)f.*r.*v(uj)(bpn_dl)」</Pattern1>
+        <Pattern2>「(ns)f.*r.*v(uj)(bpn_dl)」</Pattern2>
+        <StandardQuestion>2</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>147</id>
+      	<questionStem>一般佛教徒经常诵读的经典是()</questionStem>
+        <wordlist>一般|佛教徒|经常|诵读|的|经典|是|(|)</wordlist>
+		<POSlist>一般/a 佛教徒/n 经常/d 诵读/v 的/uj 经典/n 是/v (/x )/x</POSlist>
+		<questionType>经名|列举</questionType>
+        <Pattern1>「.*n.*v(uj)nv\(\)」</Pattern1>
+        <Pattern2>「.*n.*v(uj)nv\(\)」</Pattern2>
+        <StandardQuestion>2</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>148</id>
+      	<questionStem>修行不问是与非、有理与无理，这是()心</questionStem>
+        <wordlist>修行|不问|是|与非|、|有理|与|无理|，|这|是|(|)|心</wordlist>
+		<POSlist>修行/bpn_i 不问/v 是/v 与非/c 、/x 有理/vn 与/p 无理/v ，/x 这/r 是/v (/x )/x 心/bpn_d</POSlist>
+		<questionType>术语|直答</questionType>
+        <Pattern1>「」</Pattern1>
+        <Pattern2>「」</Pattern2>
+        <StandardQuestion>2</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>149</id>
+      	<questionStem>进入佛堂，应有()礼貌</questionStem>
+        <wordlist>进入|佛堂|，|应有|(|)|礼貌</wordlist>
+		<POSlist>进入/v 佛堂/nz ，/x 应有/v (/x )/x 礼貌/n</POSlist>
+		<questionType>未确定|列举</questionType>
+        <Pattern1>「v(nz).*v\(\)n」</Pattern1>
+        <Pattern2>「v(nz).*v\(\)n」</Pattern2>
+        <StandardQuestion>2</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>150</id>
+      	<questionStem>佛教用()供佛最为适宜</questionStem>
+        <wordlist>佛教|用|(|)|供佛|最为|适宜</wordlist>
+		<POSlist>佛教/bpn_d 用/p (/x )/x 供佛/n 最为/d 适宜/a</POSlist>
+		<questionType>术语|列举</questionType>
+        <Pattern1>「(bpn_d)p\(\)nda」</Pattern1>
+        <Pattern2>「(bpn_d)p\(\)nda」</Pattern2>
+        <StandardQuestion>2</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>151</id>
+      	<questionStem>经本应()放置</questionStem>
+        <wordlist>经本|应|(|)|放置</wordlist>
+		<POSlist>经本/n 应/v (/x )/x 放置/v</POSlist>
+		<questionType>未确定|未确定</questionType>
+        <Pattern1>「nv\(\)v」</Pattern1>
+        <Pattern2>「nv\(\)v」</Pattern2>
+        <StandardQuestion>2</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>152</id>
+      	<questionStem>超荐亡灵时，诵持()最适宜</questionStem>
+        <wordlist>为|人|祝寿|时|，|最|适合|(|)|诵|祝福</wordlist>
+		<POSlist>为/p 人/n 祝寿/nr 时/n ，/x 最/d 适合/v (/x )/x 诵/vg 祝福/nr</POSlist>
+		<questionType>经名|列举</questionType>
+        <Pattern1>「p.*n.*dv\(\).*」</Pattern1>
+        <Pattern2>「p.*n.*dv\(\).*」</Pattern2>
+        <StandardQuestion>2</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>153</id>
+      	<questionStem>为人祝寿时，最适合()诵祝福</questionStem>
+        <wordlist>超荐|亡灵|时|，|诵持|(|)|最|适宜</wordlist>
+		<POSlist>超荐/v 亡灵/n 时/n ，/x 诵持/v (/x )/x 最/d 适宜/a</POSlist>
+		<questionType>经名|列举</questionType>
+        <Pattern1>「.*n.*v\(\)da」</Pattern1>
+        <Pattern2>「.*n.*v\(\)da」</Pattern2>
+        <StandardQuestion>2</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>154</id>
+      	<questionStem>三藏十二部经指的是()</questionStem>
+        <wordlist>三藏十二部|经指|的|是|(|)</wordlist>
+		<POSlist>三藏十二部/bpn_x 经指/n 的/uj 是/v (/x )/x</POSlist>
+		<questionType>术语|解释|并称</questionType>
+        <Pattern1>「(bpn_x)n(uj)v\(\)」</Pattern1>
+        <Pattern2>「(bpn_x)n(uj)v\(\)」</Pattern2>
+        <StandardQuestion>1</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>155</id>
+      	<questionStem>「因果定律」是()</questionStem>
+        <wordlist>「|因果|定律|」|是|(|)</wordlist>
+		<POSlist>「/x 因果/bpn_d 定律/n 」/x 是/v (/x )/x</POSlist>
+		<questionType>术语|解释</questionType>
+        <Pattern1>「「.*」v\(\)」</Pattern1>
+        <Pattern2>「「.*」v\(\)」</Pattern2>
+        <StandardQuestion>1</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>156</id>
+      	<questionStem>下列各经典中，属于佛教者为()</questionStem>
+        <wordlist>下列|各|经典|中|，|属于|佛教|者|为|(|)</wordlist>
+		<POSlist>下列/v 各/r 经典/n 中/f ，/x 属于/v 佛教/bpn_d 者/k 为/p (/x )/x</POSlist>
+		<questionType>经名|直答</questionType>
+        <Pattern1>「.*nf.*v(bpn_d).*p\(\)」</Pattern1>
+        <Pattern2>「.*nf.*v(bpn_d).*p\(\)」</Pattern2>
+        <StandardQuestion>1</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>157</id>
+      	<questionStem>中国佛教第一座佛教寺院是()传来中国</questionStem>
+        <wordlist>中国佛教|第一座|佛教|寺院|是|(|)|传来|中国</wordlist>
+		<POSlist>中国佛教/bpn_x 第一座/m 佛教/bpn_d 寺院/bpn_t 是/v (/x )/x 传来/v 中国/bpn_g</POSlist>
+		<questionType>未确定|直答</questionType>
+        <Pattern1>「(bpn_x)m(bpn_d)(bpn_t)v\(\)v(bpn_g)」</Pattern1>
+        <Pattern2>「(bpn_x)m(bpn_d)(bpn_t)v\(\)v(bpn_g)」</Pattern2>
+        <StandardQuestion>1</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>158</id>
+      	<questionStem>佛教的「万法唯识」，这是()的主要思想。</questionStem>
+        <wordlist>佛教|的|「|万法唯识|」|，|这|是|(|)|的|主要|思想|。</wordlist>
+		<POSlist>佛教/bpn_d 的/uj 「/x 万法唯识/bpn_d 」/x ，/x 这/r 是/v (/x )/x 的/uj 主要/b 思想/n 。/x</POSlist>
+		<questionType>术语|直答</questionType>
+        <Pattern1>「(bpn_d)(uj).*rv\(\)(uj).*」</Pattern1>
+        <Pattern2>「(bpn_d)(uj).*rv\(\)(uj).*」</Pattern2>
+        <StandardQuestion>2</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>159</id>
+      	<questionStem>世亲是()思想的弘扬者</questionStem>
+        <wordlist>世亲|是|(|)|思想|的|弘扬|者</wordlist>
+		<POSlist>世亲/n 是/v (/x )/x 思想/n 的/uj 弘扬/nr 者/k</POSlist>
+		<questionType>术语|直答</questionType>
+        <Pattern1>「nv\(\)n(uj).*」</Pattern1>
+        <Pattern2>「nv\(\)n(uj).*」</Pattern2>
+        <StandardQuestion>2</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>160</id>
+      	<questionStem>六度中不受外境所惑，保持清明的心境，来判断非、邪恶的是指()</questionStem>
+        <wordlist>六度|中|不|受|外境|所惑|，|保持|清明|的|心境|，|来|判断|非|、|邪恶|的|是|指|(|)</wordlist>
+		<POSlist>六度/ns 中/f 不/d 受/bpn_d 外境/n 所惑/v ，/x 保持/v 清明/a 的/uj 心境/s ，/x 来/v 判断/v 非/h 、/x 邪恶/a 的/uj 是/v 指/n (/x )/x</POSlist>
+		<questionType>术语|直答|并称</questionType>
+        <Pattern1>「(ns)f.*vn\(\)」</Pattern1>
+        <Pattern2>「(ns)f.*vn\(\)」</Pattern2>
+        <StandardQuestion>2</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>161</id>
+      	<questionStem>菩萨以慈、悲、喜、舍四种精神，度无量众生，称为()</questionStem>
+        <wordlist>菩萨|以|慈|、|悲|、|喜|、|舍|四种|精神|，|度|无量|众生|，|称为|(|)</wordlist>
+		<POSlist>菩萨/n 以/p 慈/nr 、/x 悲/n 、/x 喜/v 、/x 舍/bpn_d 四种/m 精神/n ，/x 度/zg 无量/n 众生/n ，/x 称为/v (/x )/x</POSlist>
+		<questionType>术语|直答</questionType>
+        <Pattern1>「np.*v\(\)」</Pattern1>
+        <Pattern2>「np.*v\(\)」</Pattern2>
+        <StandardQuestion>1</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>162</id>
+      	<questionStem>阿弥陀经是()，所依的经典</questionStem>
+        <wordlist>阿弥陀经|是|(|)|，|所依|的|经典</wordlist>
+		<POSlist>阿弥陀经/bpn_b 是/v (/x )/x ，/x 所依/bpn_d 的/uj 经典/n</POSlist>
+		<questionType>术语|直答</questionType>
+        <Pattern1>「(bpn_b)v\(\).*(bpn_d)(uj).*」</Pattern1>
+        <Pattern2>「(bpn_b)v\(\).*(bpn_d)(uj).*」</Pattern2>
+        <StandardQuestion>2</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>163</id>
+      	<questionStem>佛陀在世时，印度最忠诚拥护佛法的国王是()</questionStem>
+        <wordlist>佛陀|在世|时|，|印度|最|忠诚|拥护|佛法|的|国王|是|(|)</wordlist>
+		<POSlist>佛陀/nz 在世/nrt 时/n ，/x 印度/bpn_g 最/d 忠诚/a 拥护/v 佛法/nz 的/uj 国王/n 是/v (/x )/x</POSlist>
+		<questionType>人物|直答</questionType>
+        <Pattern1>「」</Pattern1>
+        <Pattern2>「」</Pattern2>
+        <StandardQuestion>2</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>164</id>
+      	<questionStem>佛陀初转法-轮是宣说()</questionStem>
+        <wordlist>佛陀|初|转法|-|轮|是|宣说|(|)</wordlist>
+		<POSlist>佛陀/nz 初/f 转法/v -/x 轮/q 是/v 宣说/v (/x )/x</POSlist>
+		<questionType>术语|直答</questionType>
+        <Pattern1>「.*vv\(\)」</Pattern1>
+        <Pattern2>「.*vv\(\)」</Pattern2>
+        <StandardQuestion>2</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>165</id>
+      	<questionStem>十善业中，属于「身」的三善业是指()</questionStem>
+        <wordlist>十|善业|中|，|属于|「|身|」|的|三|善业|是|指|(|)</wordlist>
+		<POSlist>十/m 善业/bpn_d 中/f ，/x 属于/v 「/x 身/ng 」/x 的/uj 三/m 善业/bpn_d 是/v 指/n (/x )/x</POSlist>
+		<questionType>术语|直答|并称</questionType>
+        <Pattern1>「.*f.*v.*(uj).*vn\(\)」</Pattern1>
+        <Pattern2>「.*f.*v.*(uj).*vn\(\)」</Pattern2>
+        <StandardQuestion>1</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>166</id>
+      	<questionStem>密宗所谓「三密相应」是指()，与佛相应。</questionStem>
+        <wordlist>密宗|所谓|「|三密相应|」|是|指|(|)|，|与|佛|相应|。</wordlist>
+		<POSlist>密宗/bpn_s 所谓/b 「/x 三密相应/bpn_x 」/x 是/v 指/n (/x )/x ，/x 与/p 佛/nz 相应/bpn_d 。/x</POSlist>
+		<questionType>术语|直答|并称</questionType>
+        <Pattern1>「(bpn_s)b.*vn\(\).*p.*」</Pattern1>
+        <Pattern2>「(bpn_s)b.*vn\(\).*p.*」</Pattern2>
+        <StandardQuestion>1</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>167</id>
+      	<questionStem>佛陀在菩提树下证悟的内容是()</questionStem>
+        <wordlist>佛陀|在|菩提树|下|证悟|的|内容|是|(|)</wordlist>
+		<POSlist>佛陀/nz 在/p 菩提树/n 下/f 证悟/n 的/uj 内容/n 是/v (/x )/x</POSlist>
+		<questionType>术语|直答</questionType>
+        <Pattern1>「(nz)p.*v\(\)」</Pattern1>
+        <Pattern2>「(nz)p.*v\(\)」</Pattern2>
+        <StandardQuestion>1</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>168</id>
+      	<questionStem>佛门中的「四大」皆空是指()</questionStem>
+        <wordlist>佛门|中|的|「|四大|」|皆空|是|指|(|)</wordlist>
+		<POSlist>佛门/ns 中/f 的/uj 「/x 四大/bpn_d 」/x 皆空/nrt 是/v 指/n (/x )/x</POSlist>
+		<questionType>术语|直答|并称</questionType>
+        <Pattern1>「(ns)f(uj).*vn\(\)」</Pattern1>
+        <Pattern2>「(ns)f(uj).*vn\(\)」</Pattern2>
+        <StandardQuestion>1</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>169</id>
+      	<questionStem>佛陀告诉弟子们，佛涅盘后应以()为师。</questionStem>
+        <wordlist>佛陀|告诉|弟子|们|，|佛|涅盘|后|应以|(|)|为|师|。</wordlist>
+		<POSlist>佛陀/nz 告诉/v 弟子/n 们/k ，/x 佛/n 涅盘/ns 后/f 应以/v (/x )/x 为/p 师/bpn_d 。/x</POSlist>
+		<questionType>术语|直答</questionType>
+        <Pattern1>「」</Pattern1>
+        <Pattern2>「」</Pattern2>
+        <StandardQuestion>2</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>170</id>
+      	<questionStem>佛陀在()经中宣说断善根的阐提也可成佛</questionStem>
+        <wordlist>佛陀|在|(|)|经中宣|说断|善根|的|阐提|也|可|成佛</wordlist>
+		<POSlist>佛陀/nz 在/p (/x )/x 经中宣/nr 说断/v 善根/bpn_d 的/uj 阐提/bpn_d 也/d 可/v 成佛/bpn_d</POSlist>
+		<questionType>经名|直答</questionType>
+        <Pattern1>「」</Pattern1>
+        <Pattern2>「」</Pattern2>
+        <StandardQuestion>2</StandardQuestion>
+    </Pattern>
+    <Pattern>
+        <id>171</id>
+      	<questionStem>佛教的出家人姓「释」是由()所提出。</questionStem>
+        <wordlist>佛教|的|出家人|姓|「|释|」|是|由|(|)|所|提出|。</wordlist>
+		<POSlist>佛教/bpn_d 的/uj 出家人/n 姓/v 「/x 释/nr 」/x 是/v 由/p (/x )/x 所/bpn_d 提出/v 。/x</POSlist>
+		<questionType>经名|直答</questionType>
+        <Pattern1>「(bpn_d)(uj).*vp\(\)(bpn_d)v」</Pattern1>
+        <Pattern2>「(bpn_d)(uj).*vp\(\)(bpn_d)v」</Pattern2>
+        <StandardQuestion>1</StandardQuestion>
+    </Pattern>
+</Patterns>
+
+

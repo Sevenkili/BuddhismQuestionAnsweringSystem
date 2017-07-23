@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Questions>
+    <Question>
+        <id>1</id>
+        <questionStem>佛教史上除了小乘三藏的四次结集外，还有大乘结集，结集的人物是</questionStem>
+        <questionRewrite> </questionRewrite>
+        <questionType></questionType>
+        <options>
+            <option>迦叶、阿难</option>
+            <option>龙树、马鸣、阿难</option>
+            <option>弥勒、无著、阿难</option>
+            <option>文殊、弥勒、阿难</option>
+        </options>
+        <answer>4</answer>
+    </Question>
+    <Question>
+        <id>1</id>
+        <questionStem>八宗之中，创立于隋朝的两个宗派是</questionStem>
+        <questionRewrite> </questionRewrite>
+        <questionType></questionType>
+        <options>
+            <option>天台宗、三论宗</option>
+            <option>天台宗、华严宗</option>
+            <option>三论宗、华严宗</option>
+            <option>唯识宗、三论宗</option>
+        </options>
+        <answer>1</answer>
+    </Question>
+    <Question>
+        <id>1</id>
+        <questionStem>我国第一部木刻本大藏经是</questionStem>
+        <questionRewrite> </questionRewrite>
+        <questionType></questionType>
+        <options>
+            <option>《崇宁万寿藏》</option>
+            <option>《龙藏》</option>
+            <option>《开宝藏》</option>
+            <option>《碛砂藏》</option>
+        </options>
+        <answer>3</answer>
+    </Question>
+    <Question>
+        <id>1</id>
+        <questionStem>印度瑜伽行派的兴起时间是</questionStem>
+        <questionRewrite> </questionRewrite>
+        <questionType></questionType>
+        <options>
+            <option>2～3世纪</option>
+            <option>4～5世纪</option>
+            <option>6～7世纪</option>
+            <option>7～8世纪</option>
+        </options>
+        <answer>2</answer>
+    </Question>
+    <Question>
+        <id>1</id>
+        <questionStem>前秦王苻坚派兵攻克襄阳，言：“朕以十万之师取襄阳，唯得一人半。”此中，“一人”，是指</questionStem>
+        <questionRewrite> </questionRewrite>
+        <questionType></questionType>
+        <options>
+            <option>鸠摩罗什</option>
+            <option>僧肇大师</option>
+            <option>道安大师</option>
+            <option>慧远大师</option>
+        </options>
+        <answer>3</answer>
+    </Question>
+    <Question>
+        <id>1</id>
+        <questionStem>唯识谓“去后来先作主翁”的识是指</questionStem>
+        <questionRewrite> </questionRewrite>
+        <questionType></questionType>
+        <options>
+            <option>前五识</option>
+            <option>意识</option>
+            <option>末那识</option>
+            <option>阿赖耶识</option>
+        </options>
+        <answer>4</answer>
+    </Question>
+    <Question>
+        <id>1</id>
+        <questionStem>《华严经》在中国有六十华严、八十华严、四十华严等三种译本，译者分别是</questionStem>
+        <questionRewrite> </questionRewrite>
+        <questionType></questionType>
+        <options>
+            <option>佛驮跋陀罗、实叉难陀、般若</option>
+            <option>佛驮跋陀罗、实叉难陀、般若多罗</option>
+            <option>昙摩迦罗、菩提流支、般若多罗</option>
+            <option>昙摩迦罗、菩提流支、般若</option>
+        </options>
+        <answer>1</answer>
+    </Question>
+    <Question>
+        <id>1</id>
+        <questionStem>最早创立丛林的祖师是</questionStem>
+        <questionRewrite> </questionRewrite>
+        <questionType></questionType>
+        <options>
+            <option>百丈怀海</option>
+            <option>南岳怀让</option>
+            <option>马祖道一</option>
+            <option>青原行思</option>
+        </options>
+        <answer>1</answer>
+    </Question>
+    <Question>
+        <id>1</id>
+        <questionStem>佛教在印度起源并曾衰亡，印度佛进入空白时期的时间是</questionStem>
+        <questionRewrite> </questionRewrite>
+        <questionType></questionType>
+        <options>
+            <option>自十三世纪初到十七世纪末期</option>
+            <option>自十三世纪初到十八世纪末期</option>
+            <option>自十三世纪初到十九世纪末期</option>
+            <option>自十四世纪初到十九世纪末期</option>
+        </options>
+        <answer>2</answer>
+    </Question>
+    <Question>
+        <id>1</id>
+        <questionStem>下列关于马鸣菩萨，说法错误的是</questionStem>
+        <questionRewrite> </questionRewrite>
+        <questionType></questionType>
+        <options>
+            <option>公元100至160年间，中印度舍卫国娑枳多城人。</option>
+            <option>初习外道，后与胁尊者对论，终被折服而皈依佛门。</option>
+            <option>撰作有《大庄严经论》、《佛所行赞》、《大乘起信论》等。</option>
+            <option>辅佐阿育王振兴佛教，弘布大乘。</option>
+        </options>
+        <answer>4</answer>
+    </Question>
+    <Question>
+        <id>1</id>
+        <questionStem>慧远大师结社念佛，是依念佛三昧法念佛而求往生。当时《观经》尚未传译，所以其思想是基于</questionStem>
+        <questionRewrite> </questionRewrite>
+        <questionType></questionType>
+        <options>
+            <option>《往生论》</option>
+            <option>《无量寿经》</option>
+            <option>《阿弥陀经》</option>
+            <option>《般舟三昧经》</option>
+        </options>
+        <answer>4</answer>
+    </Question><Question>
+    <id>1</id>
+    <questionStem>在总结多年翻译佛经的经验之后，建立了“五不翻”原则的译经高僧是</questionStem>
+    <questionRewrite> </questionRewrite>
+    <questionType></questionType>
+    <options>
+        <option>鸠摩罗什</option>
+        <option>真谛</option>
+        <option>玄奘</option>
+        <option>不空</option>
+    </options>
+    <answer>3</answer>
+</Question><Question>
+    <id>1</id>
+    <questionStem>藏传佛教四大教派是指</questionStem>
+    <questionRewrite> </questionRewrite>
+    <questionType></questionType>
+    <options>
+        <option>宁玛、萨迦、噶举、觉囊</option>
+        <option>宁玛、萨玛、噶举、格鲁</option>
+        <option>宁玛、萨玛、噶举、觉囊</option>
+        <option>宁玛、萨迦、噶举、格鲁</option>
+    </options>
+    <answer>4</answer>
+</Question><Question>
+    <id>1</id>
+    <questionStem>下列属于华严宗的高僧有</questionStem>
+    <questionRewrite> </questionRewrite>
+    <questionType></questionType>
+    <options>
+        <option>智俨、宗密</option>
+        <option>僧朗、僧诠</option>
+        <option>慧沼、智周</option>
+        <option>湛然、知礼</option>
+    </options>
+    <answer>1</answer>
+</Question>
+    <Question>
+        <id>1</id>
+        <questionStem>部派佛教时期，从上座部最先分出来的部派是</questionStem>
+        <questionRewrite> </questionRewrite>
+        <questionType></questionType>
+        <options>
+            <option>化地、说一切有部 </option>
+            <option>雪山部、说一切有部</option>
+            <option>雪山部、犊子</option>
+            <option>犊子、化地</option>
+        </options>
+        <answer>4</answer>
+    </Question>
+    <Question>
+        <id>1</id>
+        <questionStem>中国明朝历史上有“黑衣宰相”之称是</questionStem>
+        <questionRewrite> </questionRewrite>
+        <questionType></questionType>
+        <options>
+            <option>刘秉忠</option>
+            <option>姚广孝</option>
+            <option>慧琳</option>
+            <option>太原雪斋</option>
+        </options>
+        <answer>2</answer>
+    </Question>
+    <Question>
+        <id>1</id>
+        <questionStem>下列不属于天台宗的基本教理是</questionStem>
+        <questionRewrite> </questionRewrite>
+        <questionType></questionType>
+        <options>
+            <option>三时五教</option>
+            <option>无情有性</option>
+            <option>圆顿止观</option>
+            <option>一念三千</option>
+        </options>
+        <answer>1</answer>
+    </Question>
+    <Question>
+        <id>1</id>
+        <questionStem>释迦牟尼佛示现人间，有八种相，名八相成道，分别是：从兜率天下、托胎、出生、出家、</questionStem>
+        <questionRewrite> </questionRewrite>
+        <questionType></questionType>
+        <options>
+            <option>成道、降魔、转法轮、入涅槃</option>
+            <option>成道、转法轮、降魔、入涅槃</option>
+            <option>降魔、成道、转法轮、入涅槃</option>
+            <option>苦行、成道、转法轮、入涅槃</option>
+        </options>
+        <answer>3</answer>
+    </Question>
+    <Question>
+        <id>1</id>
+        <questionStem>下列不属于五味禅的是</questionStem>
+        <questionRewrite> </questionRewrite>
+        <questionType></questionType>
+        <options>
+            <option>外道禅</option>
+            <option>凡夫禅</option>
+            <option>祖师禅</option>
+            <option>最上乘禅</option>
+        </options>
+        <answer>3</answer>
+    </Question>
+</Questions>
