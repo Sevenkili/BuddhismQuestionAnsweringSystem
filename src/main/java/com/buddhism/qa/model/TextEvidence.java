@@ -7,7 +7,7 @@ import java.util.List;
  * 文本证据的数据结构
  * Created by TT. Wu on 2017/4/22.
  */
-public class TextEvidence {
+public class TextEvidence implements Comparable<TextEvidence>{
     // 具体来自哪个数据源
     DataSource dataSource;
     // 支持片段的标题
@@ -18,6 +18,16 @@ public class TextEvidence {
     double score = 1;
     // 由证据可以获得的答案列表
     List<Answer> answerList = new ArrayList();
+    // 关键句
+    List<Sentence> importantSentenceList = new ArrayList<>();
+
+    public List<Sentence> getImportantSentenceList() {
+        return importantSentenceList;
+    }
+
+    public void setImportantSentenceList(List<Sentence> importantSentenceList) {
+        this.importantSentenceList = importantSentenceList;
+    }
 
     public TextEvidence(DataSource dataSource, String title, String snippet) {
         this.dataSource = dataSource;
@@ -72,5 +82,14 @@ public class TextEvidence {
 
     public void setScore(Double score) {
         this.score = score;
+    }
+
+    @Override
+    public int compareTo(TextEvidence o) {
+        if(this.score > o.score){
+            return 1;
+        }else{
+            return 0;
+        }
     }
 }

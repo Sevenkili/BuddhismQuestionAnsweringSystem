@@ -7,7 +7,7 @@ import java.util.List;
  * 候选答案的数据结构
  * Created by TT. Wu on 2017/4/22.
  */
-public class Answer implements Comparable {
+public class Answer implements Comparable<Answer> {
     // 选项内容
     String answerStr;
 
@@ -25,6 +25,11 @@ public class Answer implements Comparable {
     Double[] answerEmbedding = new Double[300];
 
     // 答案的可信度
+    double score = 0.0;
+
+    public Answer(){
+
+    }
 
     public Double[] getAnswerEmbedding() {
         return answerEmbedding;
@@ -32,12 +37,6 @@ public class Answer implements Comparable {
 
     public void setAnswerEmbedding(Double[] answerEmbedding) {
         this.answerEmbedding = answerEmbedding;
-    }
-
-    double score = 0.0;
-
-    public Answer(){
-
     }
 
     public Answer(String answerStr){
@@ -101,13 +100,11 @@ public class Answer implements Comparable {
     }
 
     @Override
-    public int compareTo(Object o) {
-        Answer a = (Answer)o;
-        if (a.getScore() < this.getScore())
+    public int compareTo(Answer o) {
+        if(this.score > o.score){
             return 1;
-        else if(a.getScore() > this.getScore()){
-            return -1;
+        }else{
+            return 0;
         }
-        return 0;
     }
 }

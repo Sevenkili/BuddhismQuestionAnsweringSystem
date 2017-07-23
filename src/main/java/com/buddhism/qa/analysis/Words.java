@@ -22,7 +22,43 @@ public class Words {
     public static Question setWordList(Question question){
         String questionStr = question.getQuestionStr();
 
-        Result result = Segmentor.getInstance().parse(questionStr);
+        List<Word> words = getWordList(questionStr);
+        question.setWords(words);
+        question = setOptionsWordList(question);
+
+        return question;
+    }
+
+    public static Answer setWordList(Answer answer){
+        String answerStr = answer.getAnswerStr();
+
+        List<Word> words = getWordList(answerStr);
+        answer.setWords(words);
+        return answer;
+    }
+
+    public static Sentence setWordList(Sentence sentence){
+        String sentenceStr = sentence.getSentenceStr();
+
+        List<Word> words = getWordList(sentenceStr);
+        sentence.setWords(words);
+        return sentence;
+    }
+
+    private static Question setOptionsWordList(Question question){
+        List<Answer> options = question.getOptions();
+
+        for(int i = 0; i < options.size(); i++){
+            Answer answer = Words.setWordList(options.get(i));
+            options.set(i, answer);
+        }
+
+        question.setOptions(options);
+        return question;
+    }
+
+    public static List<Word> getWordList(String str){
+        Result result = Segmentor.getInstance().parse(str);
         List<Term> termList = result.getTerms();
 
         List<Word> words = new ArrayList<>();
@@ -40,38 +76,6 @@ public class Words {
             word.setPos(wordTerm.getNatureStr());
             words.add(word);
         }
-        question.setWords(words);
-        question = setOptionsWordList(question);
-
-        return question;
-    }
-
-    public static Answer setWordList(Answer answer){
-        String answerStr = answer.getAnswerStr();
-
-        Result result = Segmentor.getInstance().parse(answerStr);
-        List<Term> termList = result.getTerms();
-
-        Word word = new Word();
-        List<Word> words = new ArrayList<>();
-        for(Term wordTerm: termList){
-            word.setWordStr(wordTerm.getName());
-            word.setPos(wordTerm.getNatureStr());
-            words.add(word);
-        }
-        answer.setWords(words);
-        return answer;
-    }
-
-    private static Question setOptionsWordList(Question question){
-        List<Answer> options = question.getOptions();
-
-        for(int i = 0; i < options.size(); i++){
-            Answer answer = Words.setWordList(options.get(i));
-            options.set(i, answer);
-        }
-
-        question.setOptions(options);
-        return question;
+        return words;
     }
 }
