@@ -4,20 +4,21 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * ±¾µØ×ÊÔ´´æ·ÅÂ·¾¶
+ * æœ¬åœ°èµ„æºå­˜æ”¾è·¯å¾„
  * Created by TT. Wu on 2017/4/21.
  */
 public class FileConfig {
 
-    // ÎÊÌâ±ê×¢
+	/* windows
+    // é—®é¢˜æ ‡æ³¨
     public static final String questionFile = "src\\main\\resources\\question\\questions.xml";
     public static final String questionFile1 = "src\\main\\resources\\question\\questions1.xml";
     public static final String questionFile2 = "src\\main\\resources\\question\\questions2.xml";
 
-    // Ä£°å±ê×¢
+    // æ¨¡æ¿æ ‡æ³¨
     public static final String patternFile = "src\\main\\resources\\pattern\\question_stem_pattern.xml";
 
-    // Î´·ÖÀàµÄ·ğÑ§°Ù¿Æ´ÊµäÄÚÈİ
+    // æœªåˆ†ç±»çš„ä½›å­¦ç™¾ç§‘è¯å…¸å†…å®¹
     public static final String[] dictionaryDescriptions = {
             "src\\main\\resources\\dictionary_description\\docs_list0.xml",
             "src\\main\\resources\\dictionary_description\\docs_list1.xml",
@@ -41,7 +42,7 @@ public class FileConfig {
             "src\\main\\resources\\dictionary_description\\docs_list19.xml"
     };
 
-    // ÒÑ·ÖÀàµÄ·ğÑ§´ÊµäÌõÄ¿
+    // å·²åˆ†ç±»çš„ä½›å­¦è¯å…¸æ¡ç›®
     public static final String bpnBook = "src\\main\\resources\\dictionary_word_dic\\b_books.dict";
     public static final String bpnPerson = "src\\main\\resources\\dictionary_word_dic\\p_person.dict";
     public static final String bpnDailyLife = "src\\main\\resources\\dictionary_word_dic\\dl_daily_life.dict";
@@ -54,35 +55,110 @@ public class FileConfig {
     public static final String bpnArt = "src\\main\\resources\\dictionary_word_dic\\a_art.dict";
     public static final String bpnPoem = "src\\main\\resources\\dictionary_word_dic\\po_poem.dict";
 
-    // Î´·ÖÀàµÄ·ğÑ§´ÊµäÌõÄ¿
+    // æœªåˆ†ç±»çš„ä½›å­¦è¯å…¸æ¡ç›®
     public static final String bpnAll = "src\\main\\resources\\dictionary_word_dic\\all.dict";
 
-    // Õë¶ÔÑµÁ·¼¯£¬ÊÖ¹¤³éÈ¡µÄ¹Ø¼ü´Ê
+    // é’ˆå¯¹è®­ç»ƒé›†ï¼Œæ‰‹å·¥æŠ½å–çš„å…³é”®è¯
     public static final String bpnKeyWord = "src\\main\\resources\\dictionary_word_dic\\key_word.dict";
 
-    // Î¬»ù°Ù¿ÆÄÚÈİ
+    // ç»´åŸºç™¾ç§‘å†…å®¹
     public static final String wikiData = "src\\main\\resources\\wiki\\wiki.xml";
 
-    // ·ğÑ§½Ì¿ÆÊé
+    // ä½›å­¦æ•™ç§‘ä¹¦
     public static final String[] textBooks = {
-            "src\\main\\resources\\textbook\\·ğ¹â½Ì¿ÆÊé.xml",
-            "src\\main\\resources\\textbook\\·ğÑ§»ù´¡Êé¼®.xml",
-            "src\\main\\resources\\textbook\\·ğÑ§½Ì¿ÆÊé.xml",
-            "src\\main\\resources\\textbook\\·ğÑ§¿Î±¾.xml",
-            "src\\main\\resources\\textbook\\»ù´¡¿Î±¾Ñ¡¶Á.xml"
+            "src\\main\\resources\\textbook\\ä½›å…‰æ•™ç§‘ä¹¦.xml",
+            "src\\main\\resources\\textbook\\ä½›å­¦åŸºç¡€ä¹¦ç±.xml",
+            "src\\main\\resources\\textbook\\ä½›å­¦æ•™ç§‘ä¹¦.xml",
+            "src\\main\\resources\\textbook\\ä½›å­¦è¯¾æœ¬.xml",
+            "src\\main\\resources\\textbook\\åŸºç¡€è¯¾æœ¬é€‰è¯».xml"
     };
 
-    // ·ğÑ§³£¿¼ÌâÀàÎÊ´ğ¶Ô
+    // ä½›å­¦å¸¸è€ƒé¢˜ç±»é—®ç­”å¯¹
     public static final String[] frequentlyAskedQuestions = {
-            "src\\main\\resources\\frequently_asked_questions\\·ğÖä¼ò½é.xml",
-            "src\\main\\resources\\frequently_asked_questions\\·ğ½ÌÃû´Ê.xml",
-            "src\\main\\resources\\frequently_asked_questions\\·ğ½ÌÒò¹û¶¨ÂÉ.xml",
-            "src\\main\\resources\\frequently_asked_questions\\·ğ½Ì»ù´¡½ÌÒå.xml",
-            "src\\main\\resources\\frequently_asked_questions\\·ğ½Ì»ù´¡ÖªÊ¶.xml",
-            "src\\main\\resources\\frequently_asked_questions\\·ğ¾­¼ò½é.xml",
-            "src\\main\\resources\\frequently_asked_questions\\×Ú½Ì¼ò½é.xml"
+            "src\\main\\resources\\frequently_asked_questions\\ä½›å’’ç®€ä»‹.xml",
+            "src\\main\\resources\\frequently_asked_questions\\ä½›æ•™åè¯.xml",
+            "src\\main\\resources\\frequently_asked_questions\\ä½›æ•™å› æœå®šå¾‹.xml",
+            "src\\main\\resources\\frequently_asked_questions\\ä½›æ•™åŸºç¡€æ•™ä¹‰.xml",
+            "src\\main\\resources\\frequently_asked_questions\\ä½›æ•™åŸºç¡€çŸ¥è¯†.xml",
+            "src\\main\\resources\\frequently_asked_questions\\ä½›ç»ç®€ä»‹.xml",
+            "src\\main\\resources\\frequently_asked_questions\\å®—æ•™ç®€ä»‹.xml"
+    };
+	 */
+	//macOS,linux
+	 // é—®é¢˜æ ‡æ³¨
+    public static final String questionFile = "src/main/resources/question/questions.xml";
+    public static final String questionFile1 = "src/main/resources/question/questions1.xml";
+    public static final String questionFile2 = "src/main/resources/question/questions2.xml";
+
+    // æ¨¡æ¿æ ‡æ³¨
+    public static final String patternFile = "src/main/resources/pattern/question_stem_pattern.xml";
+
+    // æœªåˆ†ç±»çš„ä½›å­¦ç™¾ç§‘è¯å…¸å†…å®¹
+    public static final String[] dictionaryDescriptions = {
+            "src/main/resources/dictionary_description/docs_list0.xml",
+            "src/main/resources/dictionary_description/docs_list1.xml",
+            "src/main/resources/dictionary_description/docs_list2.xml",
+            "src/main/resources/dictionary_description/docs_list3.xml",
+            "src/main/resources/dictionary_description/docs_list4.xml",
+            "src/main/resources/dictionary_description/docs_list5.xml",
+            "src/main/resources/dictionary_description/docs_list6.xml",
+            "src/main/resources/dictionary_description/docs_list7.xml",
+            "src/main/resources/dictionary_description/docs_list8.xml",
+            "src/main/resources/dictionary_description/docs_list9.xml",
+            "src/main/resources/dictionary_description/docs_list10.xml",
+            "src/main/resources/dictionary_description/docs_list11.xml",
+            "src/main/resources/dictionary_description/docs_list12.xml",
+            "src/main/resources/dictionary_description/docs_list13.xml",
+            "src/main/resources/dictionary_description/docs_list14.xml",
+            "src/main/resources/dictionary_description/docs_list15.xml",
+            "src/main/resources/dictionary_description/docs_list16.xml",
+            "src/main/resources/dictionary_description/docs_list17.xml",
+            "src/main/resources/dictionary_description/docs_list18.xml",
+            "src/main/resources/dictionary_description/docs_list19.xml"
     };
 
+    // å·²åˆ†ç±»çš„ä½›å­¦è¯å…¸æ¡ç›®
+    public static final String bpnBook = "src/main/resources/dictionary_word_dic/b_books.dict";
+    public static final String bpnPerson = "src/main/resources/dictionary_word_dic/p_person.dict";
+    public static final String bpnDailyLife = "src/main/resources/dictionary_word_dic/dl_daily_life.dict";
+    public static final String bpnIncantation = "src/main/resources/dictionary_word_dic/i_incantation.dict";
+    public static final String bpnGeography = "src/main/resources/dictionary_word_dic/g_geography.dict";
+    public static final String bpnSect = "src/main/resources/dictionary_word_dic/s_sect.dict";
+    public static final String bpnTemple = "src/main/resources/dictionary_word_dic/t_temple.dict";
+    public static final String bpnDoctrine = "src/main/resources/dictionary_word_dic/d_doctrine.dict";
+    public static final String bpnDailySupply = "src/main/resources/dictionary_word_dic/ds_daily_supplies.dict";
+    public static final String bpnArt = "src/main/resources/dictionary_word_dic/a_art.dict";
+    public static final String bpnPoem = "src/main/resources/dictionary_word_dic/po_poem.dict";
+
+    // æœªåˆ†ç±»çš„ä½›å­¦è¯å…¸æ¡ç›®
+    public static final String bpnAll = "src/main/resources/dictionary_word_dic/all.dict";
+
+    // é’ˆå¯¹è®­ç»ƒé›†ï¼Œæ‰‹å·¥æŠ½å–çš„å…³é”®è¯
+    public static final String bpnKeyWord = "src/main/resources/dictionary_word_dic/key_word.dict";
+
+    // ç»´åŸºç™¾ç§‘å†…å®¹
+    public static final String wikiData = "src/main/resources/wiki/wiki.xml";
+
+    // ä½›å­¦æ•™ç§‘ä¹¦
+    public static final String[] textBooks = {
+            "src/main/resources/textbook/ä½›å…‰æ•™ç§‘ä¹¦.xml",
+            "src/main/resources/textbook/ä½›å­¦åŸºç¡€ä¹¦ç±.xml",
+            "src/main/resources/textbook/ä½›å­¦æ•™ç§‘ä¹¦.xml",
+            "src/main/resources/textbook/ä½›å­¦è¯¾æœ¬.xml",
+            "src/main/resources/textbook/åŸºç¡€è¯¾æœ¬é€‰è¯».xml"
+    };
+
+    // ä½›å­¦å¸¸è€ƒé¢˜ç±»é—®ç­”å¯¹
+    public static final String[] frequentlyAskedQuestions = {
+            "src/main/resources/frequently_asked_questions/ä½›å’’ç®€ä»‹.xml",
+            "src/main/resources/frequently_asked_questions/ä½›æ•™åè¯.xml",
+            "src/main/resources/frequently_asked_questions/ä½›æ•™å› æœå®šå¾‹.xml",
+            "src/main/resources/frequently_asked_questions/ä½›æ•™åŸºç¡€æ•™ä¹‰.xml",
+            "src/main/resources/frequently_asked_questions/ä½›æ•™åŸºç¡€çŸ¥è¯†.xml",
+            "src/main/resources/frequently_asked_questions/ä½›ç»ç®€ä»‹.xml",
+            "src/main/resources/frequently_asked_questions/å®—æ•™ç®€ä»‹.xml"
+    };
+    
     public static List<String> getSegmentDirectionary(){
         List<String> files = new ArrayList<>();
 

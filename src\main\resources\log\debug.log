@@ -1,0 +1,65 @@
+2017-07-26 21:29:05  [ main:0 ] - [ INFO ]  证据评分之前：
+2017-07-26 21:29:05  [ main:29 ] - [ WARN ]  not find library.properties in classpath use it by default !
+2017-07-26 21:29:05  [ main:34 ] - [ INFO ]  path to stream library/ambiguity.dic
+2017-07-26 21:29:05  [ main:35 ] - [ ERROR ]  Init ambiguity library error :org.ansj.exception.LibraryException:  path :library/ambiguity.dic file:/Users/qichenglin/Documents/项目/佛学考试机器人项目/其他副本/BuddhismQuestionAnsweringSystem/library/ambiguity.dic not found or can not to read, path: library/ambiguity.dic
+2017-07-26 21:29:05  [ main:37 ] - [ DEBUG ]  begin init dic !
+2017-07-26 21:29:05  [ main:37 ] - [ INFO ]  path to stream library/default.dic
+2017-07-26 21:29:05  [ main:38 ] - [ ERROR ]  Init ambiguity library error :org.ansj.exception.LibraryException:  path :library/default.dic file:/Users/qichenglin/Documents/项目/佛学考试机器人项目/其他副本/BuddhismQuestionAnsweringSystem/library/default.dic not found or can not to read, path: library/default.dic
+2017-07-26 21:29:05  [ main:642 ] - [ INFO ]  init core library ok use time : 529
+2017-07-26 21:29:06  [ main:1011 ] - [ INFO ]  init ngram ok use time :359
+2017-07-26 21:29:06  [ main:1299 ] - [ INFO ]  证据评分之后：
+2017-07-26 21:29:06  [ main:1300 ] - [ INFO ]  日本始有华严宗。:1.1726910717522241E-4
+2017-07-26 21:29:06  [ main:1300 ] - [ INFO ]  晋水净源誉为华严宗在北宋的中兴之祖。:6.770840946298097E-5
+2017-07-26 21:29:06  [ main:1300 ] - [ INFO ]  被认为是华严宗的七祖，或十祖。:6.770840946298097E-5
+2017-07-26 21:29:06  [ main:1301 ] - [ INFO ]  根据凤潭与觉洲的说法，铃木宗忠也考证华严宗并非起源杜顺，认为应该是起源自智俨。:4.1463346863962967E-5
+2017-07-26 21:29:06  [ main:1301 ] - [ INFO ]  华严宗，又称贤首宗，汉传佛教的流派之一，此宗以《华严经》为所依，故称为“华严宗”。:3.2526632497807174E-5
+2017-07-26 21:29:48  [ main:0 ] - [ INFO ]  证据评分之前：
+2017-07-26 21:29:48  [ main:20 ] - [ WARN ]  not find library.properties in classpath use it by default !
+2017-07-26 21:29:48  [ main:24 ] - [ INFO ]  path to stream library/ambiguity.dic
+2017-07-26 21:29:48  [ main:24 ] - [ ERROR ]  Init ambiguity library error :org.ansj.exception.LibraryException:  path :library/ambiguity.dic file:/Users/qichenglin/Documents/项目/佛学考试机器人项目/其他副本/BuddhismQuestionAnsweringSystem/library/ambiguity.dic not found or can not to read, path: library/ambiguity.dic
+2017-07-26 21:29:48  [ main:25 ] - [ DEBUG ]  begin init dic !
+2017-07-26 21:29:48  [ main:26 ] - [ INFO ]  path to stream library/default.dic
+2017-07-26 21:29:48  [ main:26 ] - [ ERROR ]  Init ambiguity library error :org.ansj.exception.LibraryException:  path :library/default.dic file:/Users/qichenglin/Documents/项目/佛学考试机器人项目/其他副本/BuddhismQuestionAnsweringSystem/library/default.dic not found or can not to read, path: library/default.dic
+2017-07-26 21:29:49  [ main:638 ] - [ INFO ]  init core library ok use time : 535
+2017-07-26 21:29:49  [ main:1001 ] - [ INFO ]  init ngram ok use time :356
+2017-07-26 21:29:50  [ main:1269 ] - [ INFO ]  证据评分之后：
+2017-07-26 21:30:16  [ main:1 ] - [ INFO ]  证据评分之前：
+2017-07-26 21:30:16  [ main:19 ] - [ WARN ]  not find library.properties in classpath use it by default !
+2017-07-26 21:30:16  [ main:24 ] - [ INFO ]  path to stream library/ambiguity.dic
+2017-07-26 21:30:16  [ main:25 ] - [ ERROR ]  Init ambiguity library error :org.ansj.exception.LibraryException:  path :library/ambiguity.dic file:/Users/qichenglin/Documents/项目/佛学考试机器人项目/其他副本/BuddhismQuestionAnsweringSystem/library/ambiguity.dic not found or can not to read, path: library/ambiguity.dic
+2017-07-26 21:30:16  [ main:26 ] - [ DEBUG ]  begin init dic !
+2017-07-26 21:30:16  [ main:26 ] - [ INFO ]  path to stream library/default.dic
+2017-07-26 21:30:16  [ main:27 ] - [ ERROR ]  Init ambiguity library error :org.ansj.exception.LibraryException:  path :library/default.dic file:/Users/qichenglin/Documents/项目/佛学考试机器人项目/其他副本/BuddhismQuestionAnsweringSystem/library/default.dic not found or can not to read, path: library/default.dic
+2017-07-26 21:30:16  [ main:611 ] - [ INFO ]  init core library ok use time : 522
+2017-07-26 21:30:17  [ main:976 ] - [ INFO ]  init ngram ok use time :357
+2017-07-26 21:30:17  [ main:1235 ] - [ INFO ]  证据评分之后：
+2017-07-26 21:31:43  [ main:0 ] - [ INFO ]  证据评分之前：
+2017-07-26 21:31:43  [ main:18 ] - [ WARN ]  not find library.properties in classpath use it by default !
+2017-07-26 21:31:43  [ main:24 ] - [ INFO ]  path to stream library/ambiguity.dic
+2017-07-26 21:31:43  [ main:24 ] - [ ERROR ]  Init ambiguity library error :org.ansj.exception.LibraryException:  path :library/ambiguity.dic file:/Users/qichenglin/Documents/项目/佛学考试机器人项目/其他副本/BuddhismQuestionAnsweringSystem/library/ambiguity.dic not found or can not to read, path: library/ambiguity.dic
+2017-07-26 21:31:43  [ main:25 ] - [ DEBUG ]  begin init dic !
+2017-07-26 21:31:43  [ main:26 ] - [ INFO ]  path to stream library/default.dic
+2017-07-26 21:31:43  [ main:26 ] - [ ERROR ]  Init ambiguity library error :org.ansj.exception.LibraryException:  path :library/default.dic file:/Users/qichenglin/Documents/项目/佛学考试机器人项目/其他副本/BuddhismQuestionAnsweringSystem/library/default.dic not found or can not to read, path: library/default.dic
+2017-07-26 21:31:44  [ main:532 ] - [ INFO ]  init core library ok use time : 436
+2017-07-26 21:31:44  [ main:889 ] - [ INFO ]  init ngram ok use time :347
+2017-07-26 21:31:44  [ main:1147 ] - [ INFO ]  证据评分之后：
+2017-07-26 21:32:56  [ main:0 ] - [ INFO ]  证据评分之前：
+2017-07-26 21:32:56  [ main:19 ] - [ WARN ]  not find library.properties in classpath use it by default !
+2017-07-26 21:32:56  [ main:24 ] - [ INFO ]  path to stream library/ambiguity.dic
+2017-07-26 21:32:56  [ main:24 ] - [ ERROR ]  Init ambiguity library error :org.ansj.exception.LibraryException:  path :library/ambiguity.dic file:/Users/qichenglin/Documents/项目/佛学考试机器人项目/其他副本/BuddhismQuestionAnsweringSystem/library/ambiguity.dic not found or can not to read, path: library/ambiguity.dic
+2017-07-26 21:32:56  [ main:26 ] - [ DEBUG ]  begin init dic !
+2017-07-26 21:32:56  [ main:26 ] - [ INFO ]  path to stream library/default.dic
+2017-07-26 21:32:56  [ main:26 ] - [ ERROR ]  Init ambiguity library error :org.ansj.exception.LibraryException:  path :library/default.dic file:/Users/qichenglin/Documents/项目/佛学考试机器人项目/其他副本/BuddhismQuestionAnsweringSystem/library/default.dic not found or can not to read, path: library/default.dic
+2017-07-26 21:32:56  [ main:531 ] - [ INFO ]  init core library ok use time : 439
+2017-07-26 21:32:57  [ main:886 ] - [ INFO ]  init ngram ok use time :347
+2017-07-26 21:32:57  [ main:1125 ] - [ INFO ]  证据评分之后：
+2017-07-26 22:13:10  [ main:0 ] - [ INFO ]  证据评分之前：
+2017-07-26 22:13:10  [ main:19 ] - [ WARN ]  not find library.properties in classpath use it by default !
+2017-07-26 22:13:10  [ main:24 ] - [ INFO ]  path to stream library/ambiguity.dic
+2017-07-26 22:13:10  [ main:24 ] - [ ERROR ]  Init ambiguity library error :org.ansj.exception.LibraryException:  path :library/ambiguity.dic file:/Users/qichenglin/Documents/项目/佛学考试机器人项目/其他副本/BuddhismQuestionAnsweringSystem/library/ambiguity.dic not found or can not to read, path: library/ambiguity.dic
+2017-07-26 22:13:10  [ main:25 ] - [ DEBUG ]  begin init dic !
+2017-07-26 22:13:10  [ main:26 ] - [ INFO ]  path to stream library/default.dic
+2017-07-26 22:13:10  [ main:26 ] - [ ERROR ]  Init ambiguity library error :org.ansj.exception.LibraryException:  path :library/default.dic file:/Users/qichenglin/Documents/项目/佛学考试机器人项目/其他副本/BuddhismQuestionAnsweringSystem/library/default.dic not found or can not to read, path: library/default.dic
+2017-07-26 22:13:11  [ main:549 ] - [ INFO ]  init core library ok use time : 451
+2017-07-26 22:13:11  [ main:926 ] - [ INFO ]  init ngram ok use time :366
+2017-07-26 22:13:11  [ main:1185 ] - [ INFO ]  证据评分之后：

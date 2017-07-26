@@ -31,7 +31,8 @@ public class Segmentor extends ToAnalysis {
         String temp = "";
 
         for(String s: filename){
-            String pos = s.split("_")[2].replace("dic\\", "bpn_");
+            //String pos = s.split("_")[2].replace("dic\\", "bpn_");//windows
+            String pos = s.split("_")[2].replace("dic/", "bpn_");//mac os/linux
             BufferedReader br = getBufferedReader(s);
             Forest dic = new Forest();
             try {
@@ -99,7 +100,7 @@ public class Segmentor extends ToAnalysis {
     }
 
     public static void main(String[] args){
-        String s = "°¢ÓýÍõÏ¢»µÄ¿ÒòÔµ¾­";
+        String s = "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ï¢ï¿½ï¿½Ä¿ï¿½ï¿½Ôµï¿½ï¿½";
         System.out.println(ToAnalysis.parse(s, Segmentor.getDics()));
         System.out.println(ToAnalysis.parse(s));
     }

@@ -23,7 +23,7 @@ public class Sentence implements Comparable<Sentence>{
     // 句子的重要程度的可信度
     double score = 1.0;
 
-    Sentence(String sentenceStr){
+    public Sentence(String sentenceStr){
         this.sentenceStr = sentenceStr;
 //        Words.setWordList(this);
     }
